@@ -1,0 +1,1001 @@
+transaction_id,product_name,category,quantity,price_per_unit,total_amount,payment_method,customer_region,timestamp,is_anomaly
+57,Ogbono,Seeds,8,6.2,49.6,Cash,Glasgow,2025-03-04 17:44:16,0
+720,Chin Chin,Snacks,7,5.92,41.44,Card,Manchester,2025-03-31 06:10:16,0
+946,Jollof Rice Pack,Grains,8,19.36,154.88,Mobile Money,Manchester,2025-04-09 19:30:16,0
+958,Ogbono,Seeds,400,75.1,30040.0,Mobile Money,Leeds,2025-02-26 09:35:16,1
+226,Stockfish,Proteins,5,15.53,77.65,Card,London,2025-03-07 01:36:16,0
+124,Palm Oil,Oil,1,14.8,14.8,Mobile Money,Glasgow,2025-04-04 02:24:16,0
+597,Cassava,Tubers,9,10.77,96.93,Cash,Leeds,2025-03-16 20:12:16,0
+181,Chin Chin,Snacks,7,2.88,20.16,Card,Leeds,2025-03-31 22:58:16,0
+295,Cassava,Tubers,2,7.15,14.3,Card,Leeds,2025-04-12 17:38:16,0
+73,Plantain,Fruits,9,22.06,198.54,Cash,Manchester,2025-03-06 14:04:16,0
+636,Suya Spice,Spices,1,14.96,14.96,Mobile Money,Glasgow,2025-04-06 13:29:16,0
+953,Egusi,Spices,300,2.369,710.7,Card,Manchester,2025-03-11 15:48:16,1
+272,Jollof Rice Pack,Grains,6,16.78,100.68,Card,Manchester,2025-04-03 06:53:16,0
+527,Palm Oil,Oil,4,11.6,46.4,Mobile Money,Birmingham,2025-04-18 01:16:16,0
+220,Jollof Rice Pack,Grains,8,16.4,131.2,Cash,Manchester,2025-04-01 10:11:16,0
+711,Ogbono,Seeds,5,7.21,36.05,Card,Leeds,2025-04-23 12:21:16,0
+593,Egusi,Spices,7,12.76,89.32,Cash,Manchester,2025-03-03 02:05:16,0
+889,Chin Chin,Snacks,4,19.56,78.24,Mobile Money,Birmingham,2025-04-04 13:40:16,0
+380,Egusi,Spices,6,10.14,60.84,Cash,Manchester,2025-04-21 00:05:16,0
+777,Jollof Rice Pack,Grains,6,19.01,114.06,Cash,Leeds,2025-03-20 04:41:16,0
+556,Egusi,Spices,1,17.0,17.0,Card,Manchester,2025-03-08 08:56:16,0
+787,Yam,Tubers,9,15.59,140.31,Card,Leeds,2025-03-21 15:42:16,0
+925,Ogbono,Seeds,2,23.7,47.4,Cash,Leeds,2025-03-19 19:40:16,0
+52,Jollof Rice Pack,Grains,1,2.29,2.29,Mobile Money,Manchester,2025-03-14 22:43:16,0
+783,Palm Oil,Oil,7,1.93,13.51,Cash,Glasgow,2025-04-15 20:41:16,0
+413,Plantain,Fruits,3,14.1,42.3,Cash,Manchester,2025-03-24 18:58:16,0
+364,Stockfish,Proteins,8,21.15,169.2,Card,London,2025-03-25 06:13:16,0
+482,Suya Spice,Spices,7,20.35,142.45,Mobile Money,Manchester,2025-03-30 17:27:16,0
+44,Cassava,Tubers,2,2.88,5.76,Mobile Money,London,2025-02-28 19:23:16,0
+103,Ogbono,Seeds,5,15.26,76.3,Cash,Manchester,2025-03-29 07:00:16,0
+868,Cassava,Tubers,6,14.23,85.38,Cash,Birmingham,2025-04-06 02:11:16,0
+763,Stockfish,Proteins,2,5.8,11.6,Card,Manchester,2025-02-28 17:34:16,0
+174,Palm Oil,Oil,2,23.71,47.42,Card,Birmingham,2025-03-25 03:38:16,0
+162,Jollof Rice Pack,Grains,6,6.65,39.9,Card,Manchester,2025-04-11 00:48:16,0
+474,Stockfish,Proteins,7,5.57,38.99,Cash,Birmingham,2025-03-03 06:49:16,0
+365,Chin Chin,Snacks,2,23.69,47.38,Cash,Manchester,2025-03-29 08:12:16,0
+916,Palm Oil,Oil,7,8.49,59.43,Card,Birmingham,2025-03-04 04:10:16,0
+574,Stockfish,Proteins,5,17.74,88.7,Card,London,2025-03-21 12:01:16,0
+621,Cassava,Tubers,3,13.35,40.05,Mobile Money,London,2025-02-25 22:15:16,0
+20,Yam,Tubers,9,16.14,145.26,Mobile Money,Leeds,2025-03-24 00:07:16,0
+949,Chin Chin,Snacks,4,24.17,96.68,Card,Manchester,2025-04-02 08:14:16,0
+196,Jollof Rice Pack,Grains,3,7.83,23.49,Cash,Glasgow,2025-02-28 18:17:16,0
+275,Stockfish,Proteins,3,16.81,50.43,Card,Manchester,2025-03-19 23:59:16,0
+386,Egusi,Spices,6,11.07,66.42,Cash,London,2025-03-22 07:39:16,0
+819,Plantain,Fruits,5,17.99,89.95,Cash,Birmingham,2025-03-06 04:03:16,0
+106,Egusi,Spices,7,19.02,133.14,Mobile Money,Leeds,2025-03-07 07:12:16,0
+784,Suya Spice,Spices,4,15.0,60.0,Card,Birmingham,2025-03-06 07:31:16,0
+18,Yam,Tubers,7,21.31,149.17,Card,Birmingham,2025-03-14 14:58:16,0
+713,Plantain,Fruits,1,2.54,2.54,Mobile Money,Birmingham,2025-04-17 06:56:16,0
+5,Plantain,Fruits,7,11.12,77.84,Mobile Money,Leeds,2025-04-06 12:05:16,0
+494,Cassava,Tubers,2,21.91,43.82,Card,Manchester,2025-03-27 16:52:16,0
+177,Jollof Rice Pack,Grains,6,10.86,65.16,Cash,Glasgow,2025-04-09 08:08:16,0
+634,Egusi,Spices,3,18.07,54.21,Cash,Leeds,2025-03-28 19:22:16,0
+623,Jollof Rice Pack,Grains,4,14.77,59.08,Mobile Money,London,2025-04-04 20:15:16,0
+163,Palm Oil,Oil,6,5.08,30.48,Card,London,2025-04-05 02:42:16,0
+138,Egusi,Spices,5,7.44,37.2,Cash,Manchester,2025-02-26 04:20:16,0
+457,Chin Chin,Snacks,4,4.89,19.56,Mobile Money,London,2025-02-24 20:06:16,0
+290,Suya Spice,Spices,2,23.26,46.52,Cash,Birmingham,2025-03-30 13:55:16,0
+980,Stockfish,Proteins,900,2.007,1806.3,Mobile Money,London,2025-03-02 22:36:16,1
+817,Cassava,Tubers,7,4.81,33.67,Card,London,2025-03-12 02:24:16,0
+164,Palm Oil,Oil,2,4.0,8.0,Card,Birmingham,2025-03-27 05:51:16,0
+502,Suya Spice,Spices,2,15.93,31.86,Card,Leeds,2025-03-26 05:32:16,0
+355,Yam,Tubers,2,17.72,35.44,Cash,Manchester,2025-02-24 03:27:16,0
+194,Suya Spice,Spices,6,10.86,65.16,Card,Birmingham,2025-04-11 12:45:16,0
+85,Plantain,Fruits,5,24.09,120.45,Card,Glasgow,2025-03-27 20:01:16,0
+442,Suya Spice,Spices,4,22.96,91.84,Cash,Glasgow,2025-03-13 20:27:16,0
+658,Jollof Rice Pack,Grains,9,2.91,26.19,Mobile Money,Leeds,2025-04-09 22:59:16,0
+797,Suya Spice,Spices,6,1.92,11.52,Cash,Glasgow,2025-03-29 14:24:16,0
+222,Plantain,Fruits,6,23.24,139.44,Cash,Leeds,2025-03-15 13:38:16,0
+144,Plantain,Fruits,1,20.21,20.21,Card,Birmingham,2025-04-01 22:53:16,0
+705,Jollof Rice Pack,Grains,6,2.23,13.38,Card,Glasgow,2025-03-08 18:56:16,0
+745,Suya Spice,Spices,3,13.81,41.43,Cash,Birmingham,2025-04-01 01:22:16,0
+357,Yam,Tubers,1,16.28,16.28,Cash,Leeds,2025-03-21 03:41:16,0
+306,Suya Spice,Spices,4,4.22,16.88,Mobile Money,Glasgow,2025-03-17 05:32:16,0
+79,Plantain,Fruits,4,13.02,52.08,Cash,Manchester,2025-04-20 18:41:16,0
+841,Yam,Tubers,4,24.82,99.28,Cash,Leeds,2025-03-13 08:06:16,0
+201,Cassava,Tubers,9,1.79,16.11,Cash,Birmingham,2025-04-04 04:38:16,0
+505,Stockfish,Proteins,7,6.05,42.35,Card,Glasgow,2025-02-26 05:12:16,0
+254,Cassava,Tubers,3,20.48,61.44,Mobile Money,London,2025-04-13 15:39:16,0
+748,Suya Spice,Spices,6,11.92,71.52,Cash,Glasgow,2025-03-20 04:41:16,0
+681,Suya Spice,Spices,7,17.63,123.41,Cash,London,2025-04-25 04:29:16,0
+610,Chin Chin,Snacks,3,14.08,42.24,Mobile Money,Leeds,2025-04-16 22:55:16,0
+552,Jollof Rice Pack,Grains,5,15.45,77.25,Card,Glasgow,2025-03-18 17:38:16,0
+456,Chin Chin,Snacks,7,18.11,126.77,Card,Glasgow,2025-04-15 19:14:16,0
+683,Chin Chin,Snacks,8,8.62,68.96,Card,Leeds,2025-03-25 06:43:16,0
+689,Palm Oil,Oil,6,9.58,57.48,Card,London,2025-04-24 04:45:16,0
+804,Yam,Tubers,2,3.76,7.52,Mobile Money,Birmingham,2025-04-05 12:26:16,0
+707,Chin Chin,Snacks,4,24.05,96.2,Card,Leeds,2025-04-17 08:03:16,0
+324,Yam,Tubers,3,23.46,70.38,Cash,Leeds,2025-03-29 09:18:16,0
+536,Stockfish,Proteins,5,10.44,52.2,Card,Leeds,2025-04-12 00:04:16,0
+340,Plantain,Fruits,4,1.99,7.96,Cash,Birmingham,2025-03-19 21:52:16,0
+809,Palm Oil,Oil,1,18.66,18.66,Card,London,2025-04-02 06:55:16,0
+742,Cassava,Tubers,4,21.26,85.04,Cash,Glasgow,2025-03-29 14:36:16,0
+214,Stockfish,Proteins,7,4.64,32.48,Mobile Money,London,2025-03-18 02:12:16,0
+639,Yam,Tubers,5,19.05,95.25,Mobile Money,Manchester,2025-03-20 23:01:16,0
+931,Palm Oil,Oil,7,20.34,142.38,Card,Leeds,2025-02-26 04:48:16,0
+655,Suya Spice,Spices,1,9.71,9.71,Card,Glasgow,2025-04-17 09:42:16,0
+37,Cassava,Tubers,6,23.56,141.36,Cash,Leeds,2025-04-14 03:12:16,0
+458,Suya Spice,Spices,7,18.6,130.2,Mobile Money,Manchester,2025-03-31 16:58:16,0
+190,Egusi,Spices,8,24.44,195.52,Cash,Manchester,2025-04-06 14:36:16,0
+341,Palm Oil,Oil,9,21.99,197.91,Cash,Leeds,2025-04-23 13:34:16,0
+430,Stockfish,Proteins,8,2.47,19.76,Card,Manchester,2025-04-21 00:39:16,0
+893,Palm Oil,Oil,1,19.63,19.63,Card,London,2025-04-21 11:00:16,0
+411,Suya Spice,Spices,8,1.62,12.96,Mobile Money,Birmingham,2025-03-01 13:17:16,0
+932,Stockfish,Proteins,1,12.01,12.01,Cash,London,2025-03-21 09:12:16,0
+281,Stockfish,Proteins,5,16.73,83.65,Card,Manchester,2025-04-01 22:36:16,0
+459,Stockfish,Proteins,1,23.77,23.77,Mobile Money,Manchester,2025-03-12 15:18:16,0
+350,Egusi,Spices,7,1.92,13.44,Card,Leeds,2025-02-27 18:07:16,0
+513,Stockfish,Proteins,3,16.92,50.76,Card,London,2025-03-11 18:22:16,0
+447,Stockfish,Proteins,1,15.34,15.34,Cash,London,2025-04-19 20:24:16,0
+270,Palm Oil,Oil,8,17.54,140.32,Cash,Manchester,2025-04-02 10:50:16,0
+821,Jollof Rice Pack,Grains,1,6.54,6.54,Cash,Manchester,2025-03-25 06:02:16,0
+695,Plantain,Fruits,3,5.86,17.58,Cash,Manchester,2025-04-12 16:19:16,0
+902,Yam,Tubers,5,14.37,71.85,Cash,Manchester,2025-03-20 18:27:16,0
+662,Plantain,Fruits,3,22.37,67.11,Card,Birmingham,2025-04-24 16:10:16,0
+235,Jollof Rice Pack,Grains,7,14.6,102.2,Mobile Money,Manchester,2025-04-11 20:40:16,0
+807,Yam,Tubers,6,12.47,74.82,Cash,Glasgow,2025-03-15 23:35:16,0
+882,Jollof Rice Pack,Grains,9,15.74,141.66,Cash,Glasgow,2025-04-14 12:26:16,0
+907,Palm Oil,Oil,9,11.24,101.16,Card,Glasgow,2025-03-06 07:47:16,0
+853,Cassava,Tubers,2,10.23,20.46,Cash,Leeds,2025-04-14 00:39:16,0
+111,Plantain,Fruits,8,13.5,108.0,Mobile Money,Leeds,2025-04-03 10:57:16,0
+663,Palm Oil,Oil,6,3.67,22.02,Cash,Leeds,2025-02-24 05:59:16,0
+30,Palm Oil,Oil,1,13.69,13.69,Card,Manchester,2025-03-22 05:33:16,0
+850,Egusi,Spices,9,6.32,56.88,Mobile Money,Glasgow,2025-04-25 05:59:16,0
+522,Ogbono,Seeds,7,17.02,119.14,Cash,Glasgow,2025-03-09 10:43:16,0
+251,Chin Chin,Snacks,2,9.58,19.16,Card,Glasgow,2025-04-09 11:30:16,0
+414,Stockfish,Proteins,5,4.87,24.35,Cash,London,2025-03-25 14:14:16,0
+166,Egusi,Spices,5,8.8,44.0,Cash,Birmingham,2025-04-21 17:00:16,0
+310,Palm Oil,Oil,6,4.76,28.56,Cash,Leeds,2025-03-04 15:01:16,0
+113,Egusi,Spices,1,6.25,6.25,Card,Birmingham,2025-03-16 02:44:16,0
+595,Palm Oil,Oil,4,4.56,18.24,Card,Birmingham,2025-03-25 19:16:16,0
+363,Cassava,Tubers,3,8.56,25.68,Card,Birmingham,2025-04-15 11:31:16,0
+467,Ogbono,Seeds,4,15.17,60.68,Mobile Money,London,2025-03-30 13:38:16,0
+810,Yam,Tubers,6,24.6,147.6,Cash,London,2025-04-15 21:52:16,0
+446,Egusi,Spices,6,24.6,147.6,Mobile Money,Birmingham,2025-03-15 23:29:16,0
+818,Jollof Rice Pack,Grains,5,5.89,29.45,Card,London,2025-04-11 18:10:16,0
+343,Jollof Rice Pack,Grains,2,7.11,14.22,Card,London,2025-04-14 08:41:16,0
+803,Egusi,Spices,7,5.39,37.73,Mobile Money,London,2025-03-18 11:17:16,0
+584,Cassava,Tubers,2,16.11,32.22,Cash,Birmingham,2025-04-16 23:34:16,0
+50,Cassava,Tubers,7,22.52,157.64,Card,London,2025-03-03 01:30:16,0
+245,Plantain,Fruits,5,17.61,88.05,Cash,Glasgow,2025-03-03 18:04:16,0
+796,Palm Oil,Oil,7,8.64,60.48,Mobile Money,Leeds,2025-02-27 21:19:16,0
+656,Cassava,Tubers,8,24.85,198.8,Card,London,2025-03-05 20:56:16,0
+74,Palm Oil,Oil,4,24.96,99.84,Mobile Money,Manchester,2025-03-19 04:04:16,0
+890,Palm Oil,Oil,2,17.52,35.04,Cash,Glasgow,2025-04-03 23:26:16,0
+338,Plantain,Fruits,4,12.99,51.96,Mobile Money,Leeds,2025-02-25 11:46:16,0
+157,Palm Oil,Oil,7,16.22,113.54,Cash,Birmingham,2025-04-06 23:01:16,0
+575,Stockfish,Proteins,5,16.78,83.9,Mobile Money,London,2025-03-08 23:32:16,0
+412,Palm Oil,Oil,8,11.77,94.16,Mobile Money,Glasgow,2025-03-03 10:22:16,0
+284,Plantain,Fruits,1,9.69,9.69,Mobile Money,Manchester,2025-03-21 08:42:16,0
+532,Suya Spice,Spices,7,7.19,50.33,Cash,Leeds,2025-03-16 05:48:16,0
+146,Chin Chin,Snacks,9,13.43,120.87,Card,London,2025-03-07 19:16:16,0
+119,Palm Oil,Oil,3,16.34,49.02,Mobile Money,Birmingham,2025-04-23 02:52:16,0
+917,Suya Spice,Spices,3,6.11,18.33,Cash,London,2025-03-03 00:23:16,0
+740,Chin Chin,Snacks,1,11.23,11.23,Mobile Money,Glasgow,2025-04-07 05:44:16,0
+183,Plantain,Fruits,3,18.22,54.66,Cash,Leeds,2025-03-12 22:34:16,0
+993,Egusi,Spices,300,102.89999999999999,30870.0,Mobile Money,Birmingham,2025-04-24 10:18:16,1
+90,Egusi,Spices,6,15.95,95.7,Cash,London,2025-03-14 11:34:16,0
+926,Yam,Tubers,5,22.04,110.2,Cash,Manchester,2025-04-16 17:31:16,0
+27,Chin Chin,Snacks,8,15.5,124.0,Cash,Birmingham,2025-03-27 11:30:16,0
+991,Stockfish,Proteins,400,0.5830000000000001,233.2,Cash,Birmingham,2025-03-18 04:32:16,1
+108,Palm Oil,Oil,1,17.93,17.93,Cash,Leeds,2025-03-13 23:47:16,0
+586,Suya Spice,Spices,8,12.21,97.68,Mobile Money,Manchester,2025-02-25 00:58:16,0
+647,Cassava,Tubers,9,14.47,130.23,Card,Birmingham,2025-04-10 14:44:16,0
+286,Cassava,Tubers,7,20.53,143.71,Cash,London,2025-03-22 07:01:16,0
+954,Yam,Tubers,200,198.70000000000002,39740.0,Mobile Money,Leeds,2025-04-16 14:25:16,1
+969,Ogbono,Seeds,400,220.5,88200.0,Cash,Glasgow,2025-03-12 10:51:16,1
+599,Chin Chin,Snacks,6,3.06,18.36,Mobile Money,Manchester,2025-03-18 05:45:16,0
+526,Cassava,Tubers,2,23.32,46.64,Card,Glasgow,2025-04-20 23:58:16,0
+238,Yam,Tubers,3,11.32,33.96,Mobile Money,Manchester,2025-04-19 02:01:16,0
+321,Cassava,Tubers,3,13.69,41.07,Cash,London,2025-02-25 12:24:16,0
+827,Palm Oil,Oil,5,13.82,69.1,Mobile Money,Manchester,2025-04-14 06:18:16,0
+837,Yam,Tubers,5,8.28,41.4,Cash,Leeds,2025-03-19 03:01:16,0
+375,Chin Chin,Snacks,8,7.53,60.24,Mobile Money,Birmingham,2025-04-13 23:12:16,0
+158,Jollof Rice Pack,Grains,7,5.51,38.57,Card,Leeds,2025-02-25 07:35:16,0
+115,Egusi,Spices,4,7.93,31.72,Card,Manchester,2025-04-09 06:48:16,0
+942,Yam,Tubers,6,9.66,57.96,Mobile Money,London,2025-03-05 08:36:16,0
+870,Egusi,Spices,1,24.18,24.18,Card,Glasgow,2025-04-25 10:58:16,0
+728,Plantain,Fruits,6,5.47,32.82,Cash,Manchester,2025-03-23 00:35:16,0
+217,Chin Chin,Snacks,4,21.96,87.84,Cash,London,2025-04-24 03:11:16,0
+470,Ogbono,Seeds,1,13.78,13.78,Cash,Glasgow,2025-04-20 21:23:16,0
+724,Plantain,Fruits,8,24.3,194.4,Cash,Leeds,2025-04-13 04:36:16,0
+381,Chin Chin,Snacks,9,7.12,64.08,Card,Manchester,2025-03-25 05:06:16,0
+915,Palm Oil,Oil,9,6.94,62.46,Mobile Money,Birmingham,2025-03-18 01:49:16,0
+770,Plantain,Fruits,7,10.79,75.53,Mobile Money,Leeds,2025-03-26 09:48:16,0
+116,Ogbono,Seeds,8,11.77,94.16,Cash,Birmingham,2025-04-14 17:20:16,0
+543,Stockfish,Proteins,4,20.89,83.56,Mobile Money,London,2025-03-23 14:17:16,0
+167,Yam,Tubers,4,16.08,64.32,Card,Manchester,2025-03-20 02:25:16,0
+312,Yam,Tubers,4,6.8,27.2,Cash,Manchester,2025-03-22 08:09:16,0
+680,Plantain,Fruits,3,2.58,7.74,Cash,London,2025-04-04 07:47:16,0
+743,Palm Oil,Oil,1,4.16,4.16,Card,Leeds,2025-03-28 23:26:16,0
+259,Plantain,Fruits,2,14.74,29.48,Cash,Leeds,2025-03-12 09:48:16,0
+687,Ogbono,Seeds,1,22.31,22.31,Mobile Money,Birmingham,2025-04-02 05:42:16,0
+862,Stockfish,Proteins,8,5.29,42.32,Cash,Leeds,2025-04-09 02:24:16,0
+620,Yam,Tubers,3,15.45,46.35,Mobile Money,London,2025-03-02 18:05:16,0
+107,Stockfish,Proteins,5,22.19,110.95,Card,Glasgow,2025-04-13 18:46:16,0
+263,Yam,Tubers,9,5.12,46.08,Card,Birmingham,2025-04-05 01:12:16,0
+475,Plantain,Fruits,1,13.29,13.29,Mobile Money,Manchester,2025-03-23 12:45:16,0
+345,Yam,Tubers,2,17.89,35.78,Card,Manchester,2025-03-16 15:27:16,0
+650,Ogbono,Seeds,2,7.4,14.8,Cash,London,2025-04-12 17:16:16,0
+972,Suya Spice,Spices,600,1.344,806.4,Card,Leeds,2025-04-20 00:09:16,1
+173,Jollof Rice Pack,Grains,5,10.66,53.3,Mobile Money,London,2025-03-23 18:53:16,0
+489,Suya Spice,Spices,5,12.7,63.5,Cash,Glasgow,2025-03-26 20:17:16,0
+206,Plantain,Fruits,6,3.41,20.46,Cash,Leeds,2025-02-27 05:47:16,0
+71,Palm Oil,Oil,8,15.21,121.68,Card,Leeds,2025-04-20 22:28:16,0
+257,Yam,Tubers,2,1.6,3.2,Mobile Money,Glasgow,2025-04-13 21:04:16,0
+285,Yam,Tubers,3,19.51,58.53,Cash,Leeds,2025-04-08 13:53:16,0
+171,Cassava,Tubers,7,20.3,142.1,Cash,Glasgow,2025-03-27 19:14:16,0
+266,Stockfish,Proteins,2,10.08,20.16,Cash,Birmingham,2025-03-25 12:29:16,0
+838,Stockfish,Proteins,9,10.1,90.9,Cash,Glasgow,2025-04-07 16:07:16,0
+134,Egusi,Spices,5,20.44,102.2,Card,Birmingham,2025-02-24 19:43:16,0
+303,Egusi,Spices,6,5.7,34.2,Cash,Glasgow,2025-04-06 14:07:16,0
+410,Suya Spice,Spices,4,14.27,57.08,Cash,London,2025-03-01 03:52:16,0
+332,Palm Oil,Oil,7,5.11,35.77,Cash,London,2025-04-19 02:42:16,0
+774,Cassava,Tubers,1,12.61,12.61,Cash,Manchester,2025-04-21 03:52:16,0
+876,Stockfish,Proteins,3,22.97,68.91,Cash,London,2025-04-06 19:14:16,0
+180,Jollof Rice Pack,Grains,6,5.25,31.5,Cash,Birmingham,2025-04-23 07:41:16,0
+2,Palm Oil,Oil,3,6.16,18.48,Cash,London,2025-04-14 10:11:16,0
+417,Stockfish,Proteins,1,10.29,10.29,Card,London,2025-03-08 02:39:16,0
+258,Jollof Rice Pack,Grains,9,23.1,207.9,Cash,London,2025-03-11 07:01:16,0
+976,Palm Oil,Oil,60,32.3,1938.0,Card,London,2025-04-19 22:38:16,1
+653,Plantain,Fruits,9,12.3,110.7,Card,Manchester,2025-03-16 19:44:16,0
+828,Jollof Rice Pack,Grains,8,10.49,83.92,Card,Glasgow,2025-03-31 00:30:16,0
+460,Yam,Tubers,4,18.53,74.12,Cash,London,2025-03-22 06:25:16,0
+193,Palm Oil,Oil,9,18.97,170.73,Cash,Leeds,2025-03-23 03:34:16,0
+25,Plantain,Fruits,9,6.59,59.31,Cash,Glasgow,2025-03-16 08:59:16,0
+611,Chin Chin,Snacks,5,23.78,118.9,Card,Manchester,2025-04-14 18:47:16,0
+207,Jollof Rice Pack,Grains,3,5.32,15.96,Cash,Glasgow,2025-03-04 13:46:16,0
+141,Egusi,Spices,9,6.57,59.13,Card,London,2025-04-15 13:59:16,0
+731,Yam,Tubers,9,8.22,73.98,Card,Birmingham,2025-03-30 12:00:16,0
+161,Ogbono,Seeds,5,24.13,120.65,Cash,London,2025-04-01 11:00:16,0
+318,Palm Oil,Oil,1,1.66,1.66,Cash,Manchester,2025-03-02 10:12:16,0
+326,Jollof Rice Pack,Grains,7,4.53,31.71,Card,Manchester,2025-03-23 08:35:16,0
+929,Suya Spice,Spices,6,17.8,106.8,Card,London,2025-03-09 17:05:16,0
+344,Plantain,Fruits,3,21.81,65.43,Card,Birmingham,2025-04-03 14:55:16,0
+974,Jollof Rice Pack,Grains,600,0.325,195.0,Cash,Glasgow,2025-03-28 01:50:16,1
+179,Yam,Tubers,8,1.8,14.4,Mobile Money,Glasgow,2025-03-05 17:34:16,0
+409,Palm Oil,Oil,9,22.88,205.92,Mobile Money,Birmingham,2025-03-18 21:19:16,0
+539,Egusi,Spices,4,2.52,10.08,Mobile Money,Leeds,2025-04-08 07:48:16,0
+12,Suya Spice,Spices,3,2.95,8.85,Card,Leeds,2025-04-17 11:48:16,0
+342,Yam,Tubers,2,16.65,33.3,Cash,Manchester,2025-03-30 02:48:16,0
+649,Egusi,Spices,8,1.6,12.8,Cash,Manchester,2025-04-17 20:51:16,0
+225,Stockfish,Proteins,5,11.98,59.9,Mobile Money,London,2025-02-24 21:06:16,0
+156,Jollof Rice Pack,Grains,4,3.87,15.48,Card,Manchester,2025-03-21 08:47:16,0
+84,Jollof Rice Pack,Grains,7,17.08,119.56,Card,London,2025-04-04 08:04:16,0
+62,Jollof Rice Pack,Grains,3,14.33,42.99,Cash,Glasgow,2025-03-10 20:30:16,0
+747,Chin Chin,Snacks,8,23.12,184.96,Cash,Birmingham,2025-02-26 02:01:16,0
+912,Jollof Rice Pack,Grains,8,16.19,129.52,Card,London,2025-04-03 08:10:16,0
+289,Yam,Tubers,7,2.14,14.98,Mobile Money,London,2025-03-04 15:43:16,0
+911,Suya Spice,Spices,6,10.03,60.18,Card,Leeds,2025-02-24 21:07:16,0
+405,Suya Spice,Spices,6,19.31,115.86,Card,Birmingham,2025-04-16 17:01:16,0
+624,Yam,Tubers,2,5.7,11.4,Mobile Money,London,2025-03-25 02:32:16,0
+130,Palm Oil,Oil,2,18.52,37.04,Card,Manchester,2025-04-14 19:34:16,0
+160,Ogbono,Seeds,6,14.18,85.08,Cash,Glasgow,2025-03-26 00:45:16,0
+319,Egusi,Spices,1,8.63,8.63,Cash,London,2025-04-21 05:46:16,0
+736,Egusi,Spices,6,2.26,13.56,Mobile Money,Manchester,2025-03-24 12:49:16,0
+914,Cassava,Tubers,5,22.08,110.4,Cash,Glasgow,2025-04-01 10:13:16,0
+579,Suya Spice,Spices,4,2.08,8.32,Mobile Money,Glasgow,2025-03-22 03:33:16,0
+368,Stockfish,Proteins,3,5.34,16.02,Cash,Manchester,2025-04-14 07:25:16,0
+133,Yam,Tubers,6,19.73,118.38,Card,Manchester,2025-03-21 21:21:16,0
+169,Stockfish,Proteins,3,19.46,58.38,Cash,Glasgow,2025-03-05 05:55:16,0
+330,Egusi,Spices,6,4.84,29.04,Mobile Money,Leeds,2025-04-09 20:54:16,0
+589,Jollof Rice Pack,Grains,7,8.73,61.11,Cash,Leeds,2025-03-02 13:57:16,0
+297,Ogbono,Seeds,1,8.86,8.86,Cash,Manchester,2025-03-23 04:46:16,0
+431,Chin Chin,Snacks,6,22.36,134.16,Card,Birmingham,2025-04-13 18:51:16,0
+572,Chin Chin,Snacks,3,7.39,22.17,Cash,Manchester,2025-02-23 17:01:16,0
+72,Jollof Rice Pack,Grains,9,10.24,92.16,Cash,London,2025-03-18 02:22:16,0
+667,Stockfish,Proteins,4,5.8,23.2,Mobile Money,Glasgow,2025-03-07 09:40:16,0
+712,Chin Chin,Snacks,8,3.29,26.32,Card,Birmingham,2025-04-04 12:47:16,0
+76,Cassava,Tubers,7,13.4,93.8,Mobile Money,Manchester,2025-02-26 22:04:16,0
+706,Ogbono,Seeds,5,21.56,107.8,Mobile Money,Manchester,2025-03-06 13:39:16,0
+869,Yam,Tubers,6,10.94,65.64,Cash,Manchester,2025-04-14 11:33:16,0
+822,Cassava,Tubers,7,2.96,20.72,Card,London,2025-03-16 06:06:16,0
+466,Yam,Tubers,9,9.12,82.08,Cash,Leeds,2025-04-01 04:11:16,0
+635,Suya Spice,Spices,8,20.12,160.96,Card,Leeds,2025-04-17 06:49:16,0
+880,Egusi,Spices,1,16.53,16.53,Cash,Glasgow,2025-03-10 08:55:16,0
+941,Jollof Rice Pack,Grains,2,12.52,25.04,Card,Leeds,2025-03-17 11:03:16,0
+59,Chin Chin,Snacks,6,22.72,136.32,Cash,Glasgow,2025-04-01 03:46:16,0
+429,Suya Spice,Spices,9,7.52,67.68,Cash,Manchester,2025-03-04 23:22:16,0
+262,Stockfish,Proteins,9,2.6,23.4,Card,London,2025-03-14 05:00:16,0
+152,Suya Spice,Spices,2,15.31,30.62,Cash,Glasgow,2025-02-27 22:35:16,0
+501,Plantain,Fruits,5,19.82,99.1,Card,Leeds,2025-02-23 18:53:16,0
+123,Cassava,Tubers,1,22.87,22.87,Cash,London,2025-03-08 02:49:16,0
+966,Chin Chin,Snacks,800,0.202,161.6,Cash,Glasgow,2025-02-26 19:15:16,1
+778,Cassava,Tubers,1,22.53,22.53,Cash,Birmingham,2025-04-10 05:35:16,0
+175,Palm Oil,Oil,1,24.47,24.47,Cash,Manchester,2025-04-09 20:14:16,0
+382,Ogbono,Seeds,1,3.36,3.36,Card,Leeds,2025-04-12 07:25:16,0
+873,Stockfish,Proteins,2,15.0,30.0,Card,London,2025-03-18 16:00:16,0
+451,Egusi,Spices,3,17.57,52.71,Card,Birmingham,2025-03-15 15:33:16,0
+938,Egusi,Spices,1,23.59,23.59,Mobile Money,London,2025-04-03 10:57:16,0
+394,Palm Oil,Oil,4,4.08,16.32,Card,Birmingham,2025-03-27 07:56:16,0
+114,Egusi,Spices,3,16.99,50.97,Cash,London,2025-04-05 00:27:16,0
+791,Yam,Tubers,7,1.98,13.86,Card,Glasgow,2025-04-12 13:18:16,0
+661,Stockfish,Proteins,4,5.19,20.76,Cash,Birmingham,2025-04-14 20:58:16,0
+754,Ogbono,Seeds,2,6.73,13.46,Card,Manchester,2025-04-18 20:28:16,0
+701,Suya Spice,Spices,2,23.79,47.58,Card,Glasgow,2025-03-20 05:04:16,0
+971,Palm Oil,Oil,400,32.3,12920.0,Mobile Money,Glasgow,2025-02-25 00:41:16,1
+47,Plantain,Fruits,4,6.74,26.96,Mobile Money,Manchester,2025-04-10 16:09:16,0
+477,Egusi,Spices,8,22.52,180.16,Cash,London,2025-04-08 08:48:16,0
+531,Chin Chin,Snacks,3,1.75,5.25,Card,Leeds,2025-04-15 16:49:16,0
+514,Yam,Tubers,4,15.59,62.36,Cash,Birmingham,2025-04-04 11:00:16,0
+504,Ogbono,Seeds,4,14.42,57.68,Mobile Money,Manchester,2025-03-29 03:23:16,0
+920,Egusi,Spices,5,12.31,61.55,Cash,Manchester,2025-04-03 17:11:16,0
+191,Ogbono,Seeds,4,5.8,23.2,Cash,Birmingham,2025-03-05 06:38:16,0
+996,Stockfish,Proteins,700,215.9,151130.0,Card,Glasgow,2025-02-24 22:47:16,1
+48,Egusi,Spices,1,17.68,17.68,Card,Glasgow,2025-04-13 13:42:16,0
+749,Palm Oil,Oil,3,8.46,25.38,Mobile Money,London,2025-03-26 23:05:16,0
+16,Cassava,Tubers,5,12.42,62.1,Cash,Manchester,2025-03-02 15:16:16,0
+722,Egusi,Spices,7,8.72,61.04,Card,Glasgow,2025-03-05 14:23:16,0
+136,Stockfish,Proteins,5,4.62,23.1,Mobile Money,Leeds,2025-04-14 14:20:16,0
+940,Yam,Tubers,3,9.08,27.24,Cash,Manchester,2025-04-23 10:03:16,0
+975,Egusi,Spices,300,138.5,41550.0,Mobile Money,Manchester,2025-04-17 15:23:16,1
+788,Cassava,Tubers,6,15.41,92.46,Card,Leeds,2025-04-20 22:21:16,0
+26,Egusi,Spices,1,14.32,14.32,Cash,Glasgow,2025-03-23 21:14:16,0
+322,Cassava,Tubers,8,7.75,62.0,Card,Manchester,2025-03-16 19:01:16,0
+346,Palm Oil,Oil,1,24.07,24.07,Cash,Birmingham,2025-04-07 14:30:16,0
+918,Plantain,Fruits,4,14.39,57.56,Cash,Glasgow,2025-03-16 01:40:16,0
+867,Ogbono,Seeds,4,7.57,30.28,Mobile Money,Manchester,2025-04-21 14:08:16,0
+793,Jollof Rice Pack,Grains,5,1.99,9.95,Card,Glasgow,2025-04-06 01:17:16,0
+351,Stockfish,Proteins,8,4.31,34.48,Cash,London,2025-02-26 16:29:16,0
+573,Ogbono,Seeds,3,4.02,12.06,Card,London,2025-04-07 20:54:16,0
+486,Cassava,Tubers,8,24.69,197.52,Card,London,2025-03-07 18:49:16,0
+4,Chin Chin,Snacks,5,12.24,61.2,Cash,Manchester,2025-03-14 08:44:16,0
+756,Plantain,Fruits,2,19.48,38.96,Cash,Leeds,2025-03-12 11:34:16,0
+854,Plantain,Fruits,5,13.71,68.55,Card,Birmingham,2025-04-13 22:27:16,0
+973,Suya Spice,Spices,20,0.86,17.2,Mobile Money,Manchester,2025-04-24 17:46:16,1
+34,Chin Chin,Snacks,8,10.58,84.64,Cash,Manchester,2025-04-17 22:56:16,0
+852,Cassava,Tubers,1,10.52,10.52,Cash,Manchester,2025-04-11 14:08:16,0
+80,Palm Oil,Oil,2,18.96,37.92,Mobile Money,Leeds,2025-03-24 00:03:16,0
+877,Ogbono,Seeds,8,7.44,59.52,Cash,Glasgow,2025-04-05 06:17:16,0
+396,Chin Chin,Snacks,6,4.99,29.94,Cash,Leeds,2025-03-24 19:29:16,0
+49,Jollof Rice Pack,Grains,6,23.95,143.7,Mobile Money,London,2025-03-10 19:23:16,0
+533,Chin Chin,Snacks,2,22.82,45.64,Cash,Glasgow,2025-02-24 07:52:16,0
+353,Jollof Rice Pack,Grains,8,24.83,198.64,Cash,Birmingham,2025-03-16 12:34:16,0
+216,Palm Oil,Oil,8,17.04,136.32,Card,Manchester,2025-04-16 08:27:16,0
+725,Egusi,Spices,8,8.05,64.4,Mobile Money,London,2025-04-11 22:52:16,0
+829,Egusi,Spices,7,1.6,11.2,Card,Manchester,2025-03-17 17:02:16,0
+654,Plantain,Fruits,3,5.74,17.22,Cash,Glasgow,2025-04-08 03:02:16,0
+730,Palm Oil,Oil,9,6.24,56.16,Cash,Manchester,2025-03-18 22:48:16,0
+23,Palm Oil,Oil,7,16.44,115.08,Card,Manchester,2025-04-23 07:50:16,0
+280,Chin Chin,Snacks,4,12.51,50.04,Cash,Birmingham,2025-03-30 16:40:16,0
+613,Cassava,Tubers,5,24.02,120.1,Cash,Leeds,2025-03-03 08:19:16,0
+562,Jollof Rice Pack,Grains,8,20.34,162.72,Card,Leeds,2025-03-10 13:24:16,0
+598,Suya Spice,Spices,6,2.53,15.18,Cash,Manchester,2025-04-21 08:32:16,0
+377,Egusi,Spices,5,20.54,102.7,Cash,Manchester,2025-03-22 03:16:16,0
+75,Egusi,Spices,3,24.21,72.63,Card,Leeds,2025-03-18 03:52:16,0
+984,Egusi,Spices,200,23.700000000000003,4740.0,Cash,Manchester,2025-03-14 03:46:16,1
+33,Plantain,Fruits,7,18.44,129.08,Mobile Money,Leeds,2025-03-01 16:04:16,0
+812,Yam,Tubers,9,9.62,86.58,Cash,Glasgow,2025-02-27 03:37:16,0
+315,Suya Spice,Spices,4,16.7,66.8,Mobile Money,Glasgow,2025-04-16 19:51:16,0
+948,Egusi,Spices,2,19.97,39.94,Mobile Money,Manchester,2025-04-19 02:05:16,0
+325,Chin Chin,Snacks,5,12.13,60.65,Mobile Money,Leeds,2025-04-07 11:32:16,0
+964,Stockfish,Proteins,180,1.366,245.88,Card,Birmingham,2025-04-04 03:12:16,1
+559,Suya Spice,Spices,5,15.32,76.6,Mobile Money,Manchester,2025-04-04 01:37:16,0
+737,Palm Oil,Oil,1,15.11,15.11,Cash,Glasgow,2025-03-05 17:39:16,0
+802,Jollof Rice Pack,Grains,1,15.36,15.36,Cash,Glasgow,2025-04-06 22:22:16,0
+398,Jollof Rice Pack,Grains,1,4.99,4.99,Cash,London,2025-03-10 19:07:16,0
+726,Yam,Tubers,4,6.13,24.52,Cash,Manchester,2025-04-14 23:00:16,0
+896,Jollof Rice Pack,Grains,3,15.53,46.59,Mobile Money,Glasgow,2025-03-19 12:18:16,0
+97,Stockfish,Proteins,4,20.98,83.92,Cash,London,2025-04-21 16:39:16,0
+277,Egusi,Spices,5,12.8,64.0,Card,Leeds,2025-03-10 10:50:16,0
+165,Stockfish,Proteins,1,8.94,8.94,Mobile Money,Glasgow,2025-04-13 12:19:16,0
+908,Stockfish,Proteins,5,22.54,112.7,Card,Glasgow,2025-03-13 23:17:16,0
+697,Ogbono,Seeds,9,12.44,111.96,Cash,Manchester,2025-03-01 04:49:16,0
+576,Stockfish,Proteins,5,8.99,44.95,Card,Birmingham,2025-03-20 14:13:16,0
+509,Cassava,Tubers,1,4.92,4.92,Cash,Leeds,2025-03-29 16:49:16,0
+101,Palm Oil,Oil,4,20.35,81.4,Card,Leeds,2025-04-08 13:09:16,0
+775,Stockfish,Proteins,8,15.15,121.2,Cash,Manchester,2025-03-16 13:33:16,0
+468,Jollof Rice Pack,Grains,9,5.68,51.12,Card,London,2025-04-02 15:35:16,0
+738,Cassava,Tubers,8,24.38,195.04,Cash,Leeds,2025-04-18 00:22:16,0
+39,Stockfish,Proteins,4,15.12,60.48,Mobile Money,Glasgow,2025-03-30 14:23:16,0
+508,Suya Spice,Spices,7,5.54,38.78,Cash,London,2025-04-25 08:09:16,0
+3,Ogbono,Seeds,5,5.1,25.5,Mobile Money,Glasgow,2025-03-01 12:58:16,0
+670,Palm Oil,Oil,3,4.24,12.72,Cash,Birmingham,2025-04-10 14:22:16,0
+555,Plantain,Fruits,2,8.51,17.02,Card,Birmingham,2025-03-13 06:19:16,0
+789,Palm Oil,Oil,2,16.48,32.96,Cash,Birmingham,2025-04-11 15:25:16,0
+498,Palm Oil,Oil,7,16.82,117.74,Cash,Leeds,2025-03-01 16:25:16,0
+96,Stockfish,Proteins,3,24.12,72.36,Mobile Money,Manchester,2025-03-04 06:14:16,0
+435,Plantain,Fruits,3,24.19,72.57,Cash,Manchester,2025-04-05 16:08:16,0
+558,Suya Spice,Spices,5,13.05,65.25,Card,London,2025-03-27 15:18:16,0
+337,Ogbono,Seeds,3,11.21,33.63,Mobile Money,Glasgow,2025-04-08 10:13:16,0
+816,Stockfish,Proteins,2,24.11,48.22,Cash,Glasgow,2025-03-02 22:59:16,0
+308,Yam,Tubers,5,5.7,28.5,Card,Manchester,2025-03-14 01:31:16,0
+392,Palm Oil,Oil,7,20.56,143.92,Mobile Money,Manchester,2025-04-01 17:03:16,0
+399,Cassava,Tubers,1,14.51,14.51,Card,Glasgow,2025-02-24 19:42:16,0
+444,Egusi,Spices,3,5.01,15.03,Cash,London,2025-02-24 08:28:16,0
+378,Cassava,Tubers,5,23.85,119.25,Cash,Manchester,2025-02-23 20:50:16,0
+919,Chin Chin,Snacks,8,13.72,109.76,Mobile Money,London,2025-03-24 06:14:16,0
+883,Plantain,Fruits,2,9.11,18.22,Card,Manchester,2025-04-17 18:18:16,0
+944,Egusi,Spices,1,3.45,3.45,Mobile Money,Leeds,2025-03-01 07:18:16,0
+335,Chin Chin,Snacks,1,14.18,14.18,Mobile Money,Manchester,2025-04-12 14:32:16,0
+236,Plantain,Fruits,6,15.39,92.34,Card,Glasgow,2025-04-18 05:06:16,0
+140,Stockfish,Proteins,2,18.03,36.06,Card,Birmingham,2025-03-04 06:59:16,0
+416,Plantain,Fruits,5,22.67,113.35,Mobile Money,Manchester,2025-04-19 23:09:16,0
+264,Stockfish,Proteins,4,3.17,12.68,Mobile Money,Birmingham,2025-02-23 23:09:16,0
+630,Plantain,Fruits,9,16.6,149.4,Cash,Glasgow,2025-03-27 03:50:16,0
+471,Palm Oil,Oil,4,1.89,7.56,Card,Glasgow,2025-04-20 22:32:16,0
+895,Suya Spice,Spices,6,3.06,18.36,Card,Glasgow,2025-03-15 22:27:16,0
+230,Stockfish,Proteins,9,3.22,28.98,Mobile Money,Manchester,2025-03-18 22:16:16,0
+291,Egusi,Spices,7,3.59,25.13,Cash,Birmingham,2025-03-03 09:41:16,0
+36,Yam,Tubers,6,23.4,140.4,Mobile Money,Leeds,2025-03-25 00:36:16,0
+487,Palm Oil,Oil,2,6.13,12.26,Cash,London,2025-03-15 00:39:16,0
+913,Suya Spice,Spices,5,2.49,12.45,Cash,Leeds,2025-03-25 04:31:16,0
+204,Egusi,Spices,9,17.67,159.03,Card,Birmingham,2025-04-12 18:29:16,0
+776,Stockfish,Proteins,5,12.45,62.25,Card,Manchester,2025-04-01 14:21:16,0
+506,Palm Oil,Oil,3,8.49,25.47,Card,Birmingham,2025-04-20 22:39:16,0
+704,Yam,Tubers,1,12.06,12.06,Cash,Birmingham,2025-04-18 14:32:16,0
+461,Ogbono,Seeds,9,7.14,64.26,Cash,Manchester,2025-03-24 13:57:16,0
+933,Yam,Tubers,5,17.74,88.7,Mobile Money,Manchester,2025-04-05 07:16:16,0
+678,Plantain,Fruits,4,18.84,75.36,Mobile Money,Birmingham,2025-04-10 14:48:16,0
+6,Palm Oil,Oil,6,5.82,34.92,Mobile Money,London,2025-04-06 22:44:16,0
+638,Suya Spice,Spices,3,17.58,52.74,Cash,London,2025-03-09 07:06:16,0
+292,Palm Oil,Oil,3,15.29,45.87,Card,Leeds,2025-04-25 08:30:16,0
+534,Ogbono,Seeds,7,3.89,27.23,Card,Leeds,2025-03-01 10:12:16,0
+453,Palm Oil,Oil,4,2.84,11.36,Cash,London,2025-04-20 23:06:16,0
+721,Cassava,Tubers,3,22.38,67.14,Cash,Glasgow,2025-04-12 09:28:16,0
+622,Chin Chin,Snacks,5,21.46,107.3,Cash,London,2025-03-18 10:18:16,0
+203,Plantain,Fruits,8,24.27,194.16,Cash,Manchester,2025-04-01 10:57:16,0
+671,Stockfish,Proteins,5,6.57,32.85,Cash,Birmingham,2025-04-14 01:01:16,0
+739,Plantain,Fruits,3,18.62,55.86,Cash,Leeds,2025-04-11 18:27:16,0
+294,Ogbono,Seeds,4,11.2,44.8,Cash,London,2025-03-06 04:33:16,0
+602,Cassava,Tubers,8,11.83,94.64,Cash,Manchester,2025-03-02 17:46:16,0
+808,Chin Chin,Snacks,4,23.5,94.0,Cash,Leeds,2025-03-03 10:03:16,0
+511,Suya Spice,Spices,3,9.93,29.79,Cash,Birmingham,2025-03-16 11:27:16,0
+856,Ogbono,Seeds,5,3.46,17.3,Card,Leeds,2025-03-08 16:53:16,0
+383,Cassava,Tubers,2,10.92,21.84,Card,Manchester,2025-03-18 16:58:16,0
+766,Ogbono,Seeds,4,13.16,52.64,Cash,Birmingham,2025-04-02 12:58:16,0
+490,Palm Oil,Oil,7,14.91,104.37,Cash,Leeds,2025-04-23 11:54:16,0
+472,Palm Oil,Oil,7,17.32,121.24,Card,Birmingham,2025-03-06 15:30:16,0
+300,Chin Chin,Snacks,8,11.24,89.92,Cash,Manchester,2025-03-16 06:16:16,0
+874,Ogbono,Seeds,4,13.08,52.32,Cash,Glasgow,2025-03-02 01:34:16,0
+990,Stockfish,Proteins,100,167.0,16700.0,Card,Manchester,2025-04-07 12:43:16,1
+112,Jollof Rice Pack,Grains,4,8.96,35.84,Cash,Leeds,2025-02-23 21:58:16,0
+137,Jollof Rice Pack,Grains,1,24.9,24.9,Cash,Manchester,2025-04-24 07:01:16,0
+605,Plantain,Fruits,4,7.07,28.28,Cash,Birmingham,2025-03-04 18:49:16,0
+273,Plantain,Fruits,7,9.86,69.02,Cash,Glasgow,2025-03-19 09:52:16,0
+875,Cassava,Tubers,1,12.36,12.36,Card,London,2025-03-22 00:57:16,0
+65,Plantain,Fruits,6,10.71,64.26,Mobile Money,Leeds,2025-04-02 20:49:16,0
+89,Stockfish,Proteins,9,19.23,173.07,Card,Leeds,2025-03-26 07:38:16,0
+894,Chin Chin,Snacks,8,24.54,196.32,Mobile Money,Manchester,2025-03-02 09:54:16,0
+727,Jollof Rice Pack,Grains,2,12.23,24.46,Cash,Birmingham,2025-04-12 06:00:16,0
+425,Jollof Rice Pack,Grains,4,19.47,77.88,Mobile Money,London,2025-03-30 00:10:16,0
+799,Jollof Rice Pack,Grains,9,14.08,126.72,Card,Birmingham,2025-04-09 16:19:16,0
+769,Palm Oil,Oil,3,14.32,42.96,Card,London,2025-04-06 23:47:16,0
+781,Suya Spice,Spices,5,11.22,56.1,Cash,Glasgow,2025-04-03 07:07:16,0
+985,Ogbono,Seeds,60,22.1,1326.0,Cash,Glasgow,2025-03-27 19:48:16,1
+287,Chin Chin,Snacks,9,10.98,98.82,Cash,Birmingham,2025-03-05 13:21:16,0
+762,Plantain,Fruits,8,23.89,191.12,Card,Manchester,2025-03-11 13:23:16,0
+488,Jollof Rice Pack,Grains,4,16.44,65.76,Mobile Money,Birmingham,2025-03-02 23:50:16,0
+393,Chin Chin,Snacks,6,21.8,130.8,Cash,Leeds,2025-03-09 15:56:16,0
+13,Jollof Rice Pack,Grains,4,12.97,51.88,Mobile Money,London,2025-04-13 19:25:16,0
+441,Chin Chin,Snacks,5,8.93,44.65,Card,Glasgow,2025-03-14 23:17:16,0
+309,Cassava,Tubers,4,20.86,83.44,Mobile Money,Leeds,2025-04-21 07:24:16,0
+528,Stockfish,Proteins,2,20.25,40.5,Cash,Leeds,2025-03-25 08:51:16,0
+956,Suya Spice,Spices,140,2.173,304.22,Mobile Money,Manchester,2025-03-19 19:20:16,1
+963,Egusi,Spices,250,183.70000000000002,45925.0,Cash,Manchester,2025-03-27 13:50:16,1
+666,Suya Spice,Spices,1,10.11,10.11,Cash,Leeds,2025-03-27 23:42:16,0
+239,Yam,Tubers,7,2.5,17.5,Mobile Money,Glasgow,2025-03-26 23:00:16,0
+385,Jollof Rice Pack,Grains,7,21.95,153.65,Mobile Money,Leeds,2025-04-14 20:12:16,0
+518,Palm Oil,Oil,7,15.81,110.67,Mobile Money,Glasgow,2025-04-17 22:26:16,0
+746,Stockfish,Proteins,1,20.76,20.76,Card,Glasgow,2025-02-24 08:52:16,0
+448,Chin Chin,Snacks,8,17.73,141.84,Card,Birmingham,2025-03-19 08:29:16,0
+851,Jollof Rice Pack,Grains,6,11.75,70.5,Cash,Birmingham,2025-02-28 19:55:16,0
+208,Stockfish,Proteins,1,5.82,5.82,Cash,Birmingham,2025-04-23 03:23:16,0
+690,Suya Spice,Spices,1,6.77,6.77,Mobile Money,London,2025-03-12 06:38:16,0
+544,Jollof Rice Pack,Grains,9,12.7,114.3,Cash,Leeds,2025-02-26 08:29:16,0
+939,Suya Spice,Spices,8,2.07,16.56,Cash,Birmingham,2025-03-29 08:06:16,0
+606,Chin Chin,Snacks,1,13.6,13.6,Card,Leeds,2025-04-11 13:31:16,0
+753,Ogbono,Seeds,9,5.78,52.02,Mobile Money,Birmingham,2025-04-09 16:28:16,0
+274,Plantain,Fruits,9,9.0,81.0,Mobile Money,Leeds,2025-03-29 05:33:16,0
+719,Egusi,Spices,3,5.01,15.03,Cash,Birmingham,2025-03-20 04:49:16,0
+241,Palm Oil,Oil,8,21.24,169.92,Card,Birmingham,2025-04-19 22:07:16,0
+760,Palm Oil,Oil,7,5.01,35.07,Cash,Birmingham,2025-03-31 07:21:16,0
+143,Cassava,Tubers,2,21.45,42.9,Cash,Glasgow,2025-04-24 15:49:16,0
+199,Stockfish,Proteins,5,6.43,32.15,Cash,London,2025-03-30 12:24:16,0
+221,Stockfish,Proteins,4,21.85,87.4,Cash,Glasgow,2025-03-11 22:12:16,0
+675,Stockfish,Proteins,8,7.16,57.28,Mobile Money,Birmingham,2025-02-25 23:07:16,0
+855,Palm Oil,Oil,7,22.71,158.97,Cash,Birmingham,2025-04-03 17:34:16,0
+878,Suya Spice,Spices,2,8.48,16.96,Mobile Money,Birmingham,2025-04-14 18:14:16,0
+860,Egusi,Spices,8,12.17,97.36,Cash,London,2025-03-15 13:16:16,0
+301,Stockfish,Proteins,4,17.38,69.52,Mobile Money,Glasgow,2025-03-27 09:30:16,0
+445,Stockfish,Proteins,1,19.06,19.06,Mobile Money,Manchester,2025-03-03 11:14:16,0
+493,Egusi,Spices,6,10.79,64.74,Mobile Money,Manchester,2025-03-23 07:02:16,0
+402,Chin Chin,Snacks,8,15.35,122.8,Cash,Birmingham,2025-04-10 23:20:16,0
+147,Yam,Tubers,9,2.68,24.12,Mobile Money,Leeds,2025-04-15 07:50:16,0
+744,Suya Spice,Spices,3,3.48,10.44,Cash,Birmingham,2025-04-12 15:34:16,0
+943,Chin Chin,Snacks,5,2.27,11.35,Card,Glasgow,2025-04-21 03:06:16,0
+732,Yam,Tubers,5,24.7,123.5,Mobile Money,Leeds,2025-03-18 12:16:16,0
+41,Cassava,Tubers,2,23.92,47.84,Mobile Money,Birmingham,2025-04-13 05:16:16,0
+587,Chin Chin,Snacks,5,18.41,92.05,Mobile Money,London,2025-03-23 19:44:16,0
+529,Palm Oil,Oil,5,4.19,20.95,Cash,Glasgow,2025-02-24 01:39:16,0
+232,Suya Spice,Spices,4,9.44,37.76,Card,Leeds,2025-04-08 10:46:16,0
+69,Egusi,Spices,8,23.61,188.88,Card,Glasgow,2025-03-27 16:18:16,0
+694,Ogbono,Seeds,7,6.28,43.96,Card,Manchester,2025-03-29 18:41:16,0
+313,Egusi,Spices,3,3.95,11.85,Cash,London,2025-03-02 16:42:16,0
+786,Cassava,Tubers,8,13.11,104.88,Cash,Birmingham,2025-04-24 13:28:16,0
+404,Plantain,Fruits,3,12.11,36.33,Mobile Money,Birmingham,2025-04-21 14:53:16,0
+135,Cassava,Tubers,5,7.82,39.1,Mobile Money,Leeds,2025-04-18 07:11:16,0
+255,Ogbono,Seeds,8,17.2,137.6,Card,London,2025-03-31 04:01:16,0
+524,Stockfish,Proteins,1,10.46,10.46,Mobile Money,London,2025-04-06 06:04:16,0
+677,Jollof Rice Pack,Grains,8,16.94,135.52,Cash,Glasgow,2025-03-21 04:33:16,0
+845,Yam,Tubers,5,19.94,99.7,Card,Glasgow,2025-04-11 14:09:16,0
+578,Plantain,Fruits,3,17.22,51.66,Mobile Money,Glasgow,2025-04-23 19:44:16,0
+865,Ogbono,Seeds,2,18.7,37.4,Mobile Money,Leeds,2025-04-05 03:41:16,0
+780,Palm Oil,Oil,3,10.21,30.63,Cash,Manchester,2025-03-11 22:02:16,0
+961,Plantain,Fruits,300,79.0,23700.0,Card,Glasgow,2025-03-17 13:30:16,1
+304,Yam,Tubers,3,12.78,38.34,Card,Leeds,2025-04-22 09:02:16,0
+110,Egusi,Spices,5,21.09,105.45,Cash,Leeds,2025-03-02 02:39:16,0
+231,Stockfish,Proteins,2,4.48,8.96,Mobile Money,London,2025-03-20 12:47:16,0
+750,Egusi,Spices,2,18.73,37.46,Cash,Birmingham,2025-04-22 23:05:16,0
+46,Cassava,Tubers,4,10.68,42.72,Cash,Leeds,2025-03-11 03:44:16,0
+491,Stockfish,Proteins,2,1.9,3.8,Mobile Money,Manchester,2025-04-15 00:41:16,0
+557,Egusi,Spices,3,17.81,53.43,Cash,Leeds,2025-04-16 21:33:16,0
+327,Palm Oil,Oil,7,2.72,19.04,Cash,Manchester,2025-04-10 15:15:16,0
+884,Ogbono,Seeds,9,15.56,140.04,Mobile Money,Manchester,2025-04-10 12:59:16,0
+688,Chin Chin,Snacks,9,11.77,105.93,Cash,Birmingham,2025-04-02 08:36:16,0
+672,Stockfish,Proteins,5,8.68,43.4,Cash,Manchester,2025-03-14 00:06:16,0
+585,Stockfish,Proteins,6,21.43,128.58,Cash,Birmingham,2025-03-16 21:11:16,0
+188,Chin Chin,Snacks,7,12.88,90.16,Cash,London,2025-03-21 10:47:16,0
+366,Stockfish,Proteins,4,21.08,84.32,Mobile Money,Manchester,2025-04-01 09:07:16,0
+60,Egusi,Spices,9,3.44,30.96,Mobile Money,London,2025-03-20 17:41:16,0
+983,Chin Chin,Snacks,60,184.0,11040.0,Mobile Money,Leeds,2025-04-08 15:26:16,1
+361,Plantain,Fruits,7,11.64,81.48,Mobile Money,Glasgow,2025-04-18 18:20:16,0
+464,Chin Chin,Snacks,5,21.75,108.75,Card,Leeds,2025-03-01 12:22:16,0
+603,Yam,Tubers,1,18.39,18.39,Mobile Money,Glasgow,2025-03-09 18:36:16,0
+428,Jollof Rice Pack,Grains,3,19.23,57.69,Card,Birmingham,2025-04-01 02:53:16,0
+566,Stockfish,Proteins,1,21.34,21.34,Cash,Glasgow,2025-03-12 01:16:16,0
+98,Egusi,Spices,4,4.82,19.28,Mobile Money,Birmingham,2025-04-22 14:29:16,0
+590,Egusi,Spices,3,10.02,30.06,Mobile Money,Leeds,2025-04-22 03:27:16,0
+858,Ogbono,Seeds,7,23.66,165.62,Cash,Manchester,2025-03-21 07:40:16,0
+178,Suya Spice,Spices,4,8.11,32.44,Cash,Glasgow,2025-03-28 02:48:16,0
+499,Yam,Tubers,6,16.31,97.86,Card,Leeds,2025-03-04 23:33:16,0
+212,Palm Oil,Oil,8,16.33,130.64,Card,Birmingham,2025-03-06 20:20:16,0
+354,Stockfish,Proteins,2,7.64,15.28,Cash,Birmingham,2025-04-09 15:42:16,0
+547,Yam,Tubers,9,9.68,87.12,Card,Leeds,2025-03-07 11:20:16,0
+645,Chin Chin,Snacks,1,5.05,5.05,Cash,Glasgow,2025-03-23 22:16:16,0
+503,Ogbono,Seeds,2,8.73,17.46,Card,London,2025-03-06 23:19:16,0
+339,Plantain,Fruits,2,15.21,30.42,Card,London,2025-04-16 01:35:16,0
+999,Egusi,Spices,40,133.9,5356.0,Mobile Money,Leeds,2025-03-23 11:46:16,1
+553,Cassava,Tubers,8,10.26,82.08,Cash,Leeds,2025-03-24 05:25:16,0
+734,Plantain,Fruits,4,9.62,38.48,Mobile Money,Manchester,2025-04-24 05:20:16,0
+934,Suya Spice,Spices,5,2.03,10.15,Cash,Leeds,2025-03-05 01:16:16,0
+633,Suya Spice,Spices,9,17.35,156.15,Card,London,2025-02-27 19:31:16,0
+237,Egusi,Spices,7,22.69,158.83,Cash,Leeds,2025-04-03 18:19:16,0
+679,Jollof Rice Pack,Grains,8,8.98,71.84,Cash,Manchester,2025-03-10 08:56:16,0
+19,Suya Spice,Spices,4,18.67,74.68,Mobile Money,Manchester,2025-04-18 09:03:16,0
+100,Palm Oil,Oil,4,22.17,88.68,Mobile Money,London,2025-03-06 05:49:16,0
+550,Palm Oil,Oil,3,23.94,71.82,Card,Birmingham,2025-03-16 05:16:16,0
+904,Palm Oil,Oil,8,2.19,17.52,Cash,Birmingham,2025-02-28 03:16:16,0
+614,Egusi,Spices,1,18.15,18.15,Cash,London,2025-03-25 21:45:16,0
+782,Chin Chin,Snacks,8,6.31,50.48,Mobile Money,Glasgow,2025-02-24 08:30:16,0
+15,Egusi,Spices,5,14.61,73.05,Card,Glasgow,2025-04-12 03:59:16,0
+989,Palm Oil,Oil,80,213.4,17072.0,Mobile Money,Leeds,2025-02-26 14:40:16,1
+844,Palm Oil,Oil,4,20.99,83.96,Mobile Money,Manchester,2025-04-06 10:51:16,0
+213,Yam,Tubers,8,8.62,68.96,Cash,London,2025-03-11 09:42:16,0
+717,Chin Chin,Snacks,8,17.27,138.16,Card,Birmingham,2025-03-09 00:37:16,0
+909,Palm Oil,Oil,1,9.71,9.71,Card,Manchester,2025-03-08 05:10:16,0
+826,Chin Chin,Snacks,1,23.93,23.93,Cash,Leeds,2025-03-11 11:40:16,0
+261,Cassava,Tubers,6,11.83,70.98,Cash,Manchester,2025-04-20 14:28:16,0
+307,Egusi,Spices,2,24.6,49.2,Cash,Manchester,2025-04-03 17:39:16,0
+362,Cassava,Tubers,8,21.79,174.32,Cash,Leeds,2025-04-17 16:13:16,0
+765,Chin Chin,Snacks,3,9.52,28.56,Mobile Money,Birmingham,2025-03-24 17:06:16,0
+314,Chin Chin,Snacks,4,5.36,21.44,Card,Glasgow,2025-03-04 15:31:16,0
+542,Plantain,Fruits,7,7.47,52.29,Mobile Money,Manchester,2025-04-17 03:44:16,0
+198,Ogbono,Seeds,6,24.9,149.4,Cash,Manchester,2025-03-08 16:08:16,0
+668,Suya Spice,Spices,4,3.14,12.56,Mobile Money,Glasgow,2025-04-22 21:36:16,0
+132,Palm Oil,Oil,3,20.65,61.95,Cash,Birmingham,2025-04-15 10:45:16,0
+861,Ogbono,Seeds,8,20.45,163.6,Card,London,2025-03-16 14:43:16,0
+652,Palm Oil,Oil,3,5.7,17.1,Cash,Leeds,2025-03-01 15:17:16,0
+153,Jollof Rice Pack,Grains,5,22.19,110.95,Cash,Leeds,2025-03-03 10:20:16,0
+755,Palm Oil,Oil,3,6.61,19.83,Card,Leeds,2025-03-11 21:57:16,0
+299,Plantain,Fruits,8,2.81,22.48,Mobile Money,Glasgow,2025-04-21 15:50:16,0
+843,Egusi,Spices,5,23.34,116.7,Mobile Money,Manchester,2025-04-18 01:14:16,0
+372,Cassava,Tubers,7,2.21,15.47,Cash,Birmingham,2025-04-17 19:57:16,0
+240,Chin Chin,Snacks,9,14.98,134.82,Mobile Money,Manchester,2025-04-17 15:38:16,0
+189,Egusi,Spices,8,3.73,29.84,Card,Birmingham,2025-03-05 07:08:16,0
+891,Cassava,Tubers,7,14.23,99.61,Cash,Manchester,2025-03-14 16:43:16,0
+197,Chin Chin,Snacks,7,12.49,87.43,Cash,Leeds,2025-03-19 03:42:16,0
+182,Suya Spice,Spices,6,3.1,18.6,Card,Glasgow,2025-04-25 09:56:16,0
+369,Jollof Rice Pack,Grains,1,18.31,18.31,Cash,London,2025-02-26 15:53:16,0
+709,Suya Spice,Spices,8,14.76,118.08,Mobile Money,Manchester,2025-04-06 19:11:16,0
+81,Stockfish,Proteins,9,10.55,94.95,Mobile Money,London,2025-04-16 00:36:16,0
+772,Jollof Rice Pack,Grains,7,1.81,12.67,Card,Leeds,2025-03-03 16:42:16,0
+205,Palm Oil,Oil,6,6.0,36.0,Cash,Leeds,2025-03-17 20:05:16,0
+426,Cassava,Tubers,9,16.56,149.04,Mobile Money,Leeds,2025-04-02 23:56:16,0
+866,Suya Spice,Spices,8,18.48,147.84,Card,Leeds,2025-04-01 02:31:16,0
+496,Yam,Tubers,4,11.72,46.88,Mobile Money,Birmingham,2025-04-06 05:31:16,0
+997,Plantain,Fruits,500,1.4980000000000002,749.0,Mobile Money,Leeds,2025-02-24 17:40:16,1
+800,Ogbono,Seeds,9,17.74,159.66,Card,Birmingham,2025-03-11 15:08:16,0
+170,Suya Spice,Spices,3,18.4,55.2,Mobile Money,Glasgow,2025-04-15 13:52:16,0
+302,Chin Chin,Snacks,2,11.58,23.16,Card,Birmingham,2025-04-17 03:28:16,0
+988,Jollof Rice Pack,Grains,100,0.5599999999999999,56.0,Cash,Birmingham,2025-04-25 10:33:16,1
+246,Egusi,Spices,5,24.33,121.65,Mobile Money,London,2025-03-16 14:42:16,0
+516,Plantain,Fruits,1,7.24,7.24,Card,Leeds,2025-03-09 20:26:16,0
+830,Chin Chin,Snacks,3,2.47,7.41,Cash,London,2025-04-15 15:41:16,0
+334,Chin Chin,Snacks,3,15.93,47.79,Cash,London,2025-04-04 07:56:16,0
+352,Chin Chin,Snacks,2,22.68,45.36,Mobile Money,Birmingham,2025-02-24 11:28:16,0
+449,Suya Spice,Spices,8,14.26,114.08,Card,Leeds,2025-04-02 20:00:16,0
+265,Jollof Rice Pack,Grains,8,22.31,178.48,Cash,Leeds,2025-03-26 23:11:16,0
+249,Ogbono,Seeds,7,13.41,93.87,Cash,Manchester,2025-04-07 20:56:16,0
+627,Stockfish,Proteins,8,16.6,132.8,Mobile Money,Birmingham,2025-03-08 19:51:16,0
+38,Plantain,Fruits,7,21.18,148.26,Mobile Money,Leeds,2025-04-02 14:03:16,0
+149,Yam,Tubers,3,18.74,56.22,Cash,Manchester,2025-03-23 02:50:16,0
+583,Plantain,Fruits,1,6.52,6.52,Cash,Glasgow,2025-04-21 04:24:16,0
+910,Ogbono,Seeds,1,6.89,6.89,Cash,London,2025-04-04 11:52:16,0
+28,Palm Oil,Oil,2,23.93,47.86,Cash,Birmingham,2025-03-31 22:56:16,0
+903,Ogbono,Seeds,5,18.46,92.3,Card,Birmingham,2025-03-05 15:44:16,0
+227,Palm Oil,Oil,6,22.03,132.18,Card,Birmingham,2025-03-26 16:24:16,0
+986,Cassava,Tubers,80,91.30000000000001,7304.0,Card,Manchester,2025-04-20 04:54:16,1
+104,Egusi,Spices,6,12.73,76.38,Mobile Money,London,2025-03-10 11:35:16,0
+523,Chin Chin,Snacks,6,14.16,84.96,Card,London,2025-03-03 05:19:16,0
+82,Suya Spice,Spices,5,2.6,13.0,Card,Leeds,2025-03-25 20:07:16,0
+395,Yam,Tubers,8,19.51,156.08,Card,Glasgow,2025-03-08 07:17:16,0
+806,Cassava,Tubers,9,20.35,183.15,Card,Leeds,2025-04-24 03:58:16,0
+757,Stockfish,Proteins,3,9.03,27.09,Card,Glasgow,2025-04-08 06:04:16,0
+440,Yam,Tubers,6,9.82,58.92,Cash,Manchester,2025-04-17 22:42:16,0
+951,Jollof Rice Pack,Grains,180,1.8260000000000003,328.68,Mobile Money,Birmingham,2025-03-26 15:56:16,1
+70,Palm Oil,Oil,1,11.83,11.83,Cash,Glasgow,2025-03-11 01:51:16,0
+61,Yam,Tubers,3,23.01,69.03,Cash,London,2025-04-09 01:07:16,0
+233,Plantain,Fruits,3,23.22,69.66,Card,London,2025-02-26 07:07:16,0
+640,Palm Oil,Oil,8,3.06,24.48,Card,Glasgow,2025-02-28 06:47:16,0
+210,Jollof Rice Pack,Grains,3,15.88,47.64,Card,Manchester,2025-03-24 08:25:16,0
+209,Egusi,Spices,5,19.83,99.15,Cash,Leeds,2025-03-01 18:11:16,0
+538,Jollof Rice Pack,Grains,7,21.51,150.57,Cash,Leeds,2025-04-09 18:00:16,0
+857,Yam,Tubers,9,10.32,92.88,Cash,Glasgow,2025-03-01 20:15:16,0
+825,Ogbono,Seeds,6,3.23,19.38,Card,Birmingham,2025-04-12 14:02:16,0
+296,Jollof Rice Pack,Grains,7,24.84,173.88,Mobile Money,Birmingham,2025-04-08 03:54:16,0
+600,Yam,Tubers,8,9.95,79.6,Mobile Money,Leeds,2025-04-05 22:21:16,0
+224,Plantain,Fruits,2,6.01,12.02,Mobile Money,Glasgow,2025-02-24 11:34:16,0
+480,Egusi,Spices,9,7.32,65.88,Mobile Money,London,2025-04-15 10:54:16,0
+581,Chin Chin,Snacks,9,4.74,42.66,Card,Birmingham,2025-04-04 23:18:16,0
+331,Egusi,Spices,3,24.11,72.33,Mobile Money,Glasgow,2025-04-03 19:57:16,0
+716,Yam,Tubers,5,18.34,91.7,Cash,Leeds,2025-03-11 04:40:16,0
+921,Chin Chin,Snacks,3,19.9,59.7,Card,Manchester,2025-03-17 21:34:16,0
+408,Yam,Tubers,7,18.03,126.21,Card,Birmingham,2025-04-17 03:35:16,0
+95,Suya Spice,Spices,5,18.7,93.5,Card,London,2025-03-27 04:41:16,0
+450,Ogbono,Seeds,8,18.89,151.12,Mobile Money,Birmingham,2025-04-19 01:52:16,0
+400,Suya Spice,Spices,8,20.2,161.6,Card,Birmingham,2025-04-25 02:48:16,0
+510,Stockfish,Proteins,8,12.86,102.88,Cash,Glasgow,2025-03-31 19:32:16,0
+347,Egusi,Spices,2,7.3,14.6,Card,Manchester,2025-04-02 07:49:16,0
+317,Plantain,Fruits,7,17.23,120.61,Cash,Birmingham,2025-04-01 23:37:16,0
+247,Chin Chin,Snacks,4,6.87,27.48,Cash,Birmingham,2025-02-28 22:31:16,0
+698,Stockfish,Proteins,9,13.32,119.88,Mobile Money,Glasgow,2025-04-21 02:33:16,0
+323,Jollof Rice Pack,Grains,9,4.43,39.87,Cash,Birmingham,2025-03-06 10:53:16,0
+846,Plantain,Fruits,8,2.76,22.08,Mobile Money,Manchester,2025-04-04 13:12:16,0
+371,Jollof Rice Pack,Grains,2,18.36,36.72,Card,London,2025-04-02 11:59:16,0
+102,Egusi,Spices,5,14.02,70.1,Cash,Manchester,2025-03-06 14:09:16,0
+14,Jollof Rice Pack,Grains,2,5.73,11.46,Card,Leeds,2025-04-18 20:50:16,0
+577,Chin Chin,Snacks,6,17.34,104.04,Cash,Glasgow,2025-04-08 13:54:16,0
+0,Jollof Rice Pack,Grains,9,9.13,82.17,Card,London,2025-04-21 23:48:16,0
+374,Suya Spice,Spices,5,7.93,39.65,Cash,Leeds,2025-03-06 14:08:16,0
+356,Cassava,Tubers,6,19.4,116.4,Cash,Manchester,2025-04-21 04:55:16,0
+561,Stockfish,Proteins,3,6.69,20.07,Mobile Money,Leeds,2025-03-26 15:06:16,0
+703,Jollof Rice Pack,Grains,6,11.69,70.14,Cash,Manchester,2025-02-24 07:26:16,0
+567,Stockfish,Proteins,6,20.66,123.96,Cash,London,2025-04-04 23:37:16,0
+497,Egusi,Spices,2,14.27,28.54,Cash,Birmingham,2025-03-02 21:11:16,0
+507,Suya Spice,Spices,9,23.62,212.58,Mobile Money,Manchester,2025-04-01 14:32:16,0
+686,Plantain,Fruits,8,1.98,15.84,Cash,Glasgow,2025-03-01 22:54:16,0
+785,Yam,Tubers,6,6.62,39.72,Cash,Birmingham,2025-04-19 02:35:16,0
+403,Cassava,Tubers,8,19.89,159.12,Mobile Money,London,2025-03-07 05:37:16,0
+256,Plantain,Fruits,2,2.69,5.38,Mobile Money,Glasgow,2025-03-15 01:05:16,0
+465,Stockfish,Proteins,3,19.92,59.76,Card,Birmingham,2025-03-10 01:24:16,0
+570,Plantain,Fruits,7,14.22,99.54,Cash,Glasgow,2025-03-15 08:41:16,0
+642,Yam,Tubers,6,1.68,10.08,Card,London,2025-04-05 22:08:16,0
+733,Jollof Rice Pack,Grains,6,12.11,72.66,Cash,Manchester,2025-03-06 13:58:16,0
+476,Yam,Tubers,3,4.42,13.26,Cash,Leeds,2025-03-10 04:48:16,0
+897,Stockfish,Proteins,2,13.38,26.76,Card,London,2025-03-01 05:13:16,0
+592,Jollof Rice Pack,Grains,9,1.82,16.38,Card,Leeds,2025-03-21 21:51:16,0
+646,Ogbono,Seeds,8,4.51,36.08,Card,London,2025-04-11 12:28:16,0
+982,Plantain,Fruits,100,32.0,3200.0,Mobile Money,Manchester,2025-03-28 18:44:16,1
+872,Egusi,Spices,3,14.15,42.45,Cash,Birmingham,2025-03-30 17:53:16,0
+609,Plantain,Fruits,8,2.71,21.68,Cash,London,2025-02-26 08:59:16,0
+752,Chin Chin,Snacks,4,17.61,70.44,Cash,Manchester,2025-03-16 12:58:16,0
+1,Jollof Rice Pack,Grains,6,7.78,46.68,Mobile Money,Manchester,2025-03-08 08:47:16,0
+68,Cassava,Tubers,9,7.56,68.04,Cash,Leeds,2025-03-11 15:13:16,0
+24,Yam,Tubers,2,11.01,22.02,Cash,Glasgow,2025-02-24 12:52:16,0
+718,Ogbono,Seeds,9,5.17,46.53,Cash,Manchester,2025-04-22 10:30:16,0
+54,Yam,Tubers,7,15.79,110.53,Card,Manchester,2025-03-29 21:48:16,0
+962,Palm Oil,Oil,20,90.5,1810.0,Mobile Money,Manchester,2025-04-09 20:48:16,1
+608,Cassava,Tubers,1,9.83,9.83,Card,Glasgow,2025-02-25 04:11:16,0
+21,Cassava,Tubers,5,12.95,64.75,Mobile Money,Glasgow,2025-04-10 07:41:16,0
+168,Palm Oil,Oil,1,20.34,20.34,Mobile Money,London,2025-03-09 10:39:16,0
+863,Egusi,Spices,9,9.92,89.28,Card,Leeds,2025-04-02 22:32:16,0
+764,Plantain,Fruits,9,11.77,105.93,Card,Leeds,2025-03-09 00:08:16,0
+664,Plantain,Fruits,2,13.43,26.86,Cash,Leeds,2025-03-10 10:51:16,0
+978,Palm Oil,Oil,50,0.31800000000000006,15.9,Cash,Glasgow,2025-03-20 23:08:16,1
+936,Plantain,Fruits,7,11.19,78.33,Mobile Money,Leeds,2025-03-06 06:07:16,0
+391,Yam,Tubers,7,12.84,89.88,Card,Birmingham,2025-03-02 12:14:16,0
+387,Chin Chin,Snacks,9,1.51,13.59,Mobile Money,Manchester,2025-03-01 12:15:16,0
+970,Yam,Tubers,200,127.5,25500.0,Card,Birmingham,2025-03-30 09:11:16,1
+223,Stockfish,Proteins,3,11.34,34.02,Mobile Money,Leeds,2025-03-08 22:10:16,0
+485,Palm Oil,Oil,2,19.84,39.68,Cash,Birmingham,2025-02-26 04:33:16,0
+947,Cassava,Tubers,7,5.33,37.31,Cash,Manchester,2025-04-09 16:12:16,0
+252,Ogbono,Seeds,4,12.9,51.6,Card,Glasgow,2025-03-25 10:10:16,0
+56,Stockfish,Proteins,5,20.2,101.0,Cash,London,2025-03-16 03:13:16,0
+957,Plantain,Fruits,100,0.789,78.9,Cash,Leeds,2025-02-26 09:15:16,1
+594,Jollof Rice Pack,Grains,2,23.36,46.72,Card,London,2025-04-15 08:46:16,0
+500,Plantain,Fruits,6,11.94,71.64,Mobile Money,Manchester,2025-03-04 13:01:16,0
+794,Ogbono,Seeds,5,20.25,101.25,Mobile Money,Leeds,2025-03-17 13:05:16,0
+253,Yam,Tubers,2,10.78,21.56,Card,Leeds,2025-03-01 04:07:16,0
+714,Suya Spice,Spices,6,8.17,49.02,Card,Leeds,2025-03-16 09:58:16,0
+773,Cassava,Tubers,5,22.13,110.65,Mobile Money,Glasgow,2025-04-13 05:08:16,0
+128,Palm Oil,Oil,3,3.77,11.31,Mobile Money,Leeds,2025-03-30 06:16:16,0
+267,Jollof Rice Pack,Grains,1,20.8,20.8,Card,Manchester,2025-03-08 20:42:16,0
+269,Cassava,Tubers,2,17.52,35.04,Mobile Money,Birmingham,2025-04-16 16:48:16,0
+546,Jollof Rice Pack,Grains,1,23.82,23.82,Mobile Money,Birmingham,2025-03-23 18:35:16,0
+455,Suya Spice,Spices,4,17.32,69.28,Mobile Money,Glasgow,2025-04-24 00:32:16,0
+886,Plantain,Fruits,6,15.47,92.82,Cash,Birmingham,2025-03-03 17:45:16,0
+824,Ogbono,Seeds,1,19.57,19.57,Cash,Birmingham,2025-03-23 18:40:16,0
+432,Jollof Rice Pack,Grains,7,14.66,102.62,Card,Birmingham,2025-03-09 03:46:16,0
+930,Jollof Rice Pack,Grains,5,4.45,22.25,Mobile Money,London,2025-03-03 08:19:16,0
+443,Chin Chin,Snacks,2,22.07,44.14,Cash,Leeds,2025-04-22 05:10:16,0
+565,Chin Chin,Snacks,8,21.16,169.28,Mobile Money,Manchester,2025-03-04 23:08:16,0
+618,Stockfish,Proteins,4,15.98,63.92,Cash,Leeds,2025-04-19 20:08:16,0
+42,Suya Spice,Spices,4,19.32,77.28,Cash,London,2025-04-19 14:27:16,0
+94,Yam,Tubers,9,3.61,32.49,Mobile Money,Birmingham,2025-02-27 17:07:16,0
+564,Egusi,Spices,3,9.01,27.03,Card,London,2025-04-23 09:39:16,0
+643,Ogbono,Seeds,3,18.29,54.87,Mobile Money,Leeds,2025-04-01 19:43:16,0
+767,Plantain,Fruits,9,16.27,146.43,Cash,London,2025-03-30 21:28:16,0
+229,Palm Oil,Oil,5,15.88,79.4,Card,Leeds,2025-04-10 10:41:16,0
+937,Ogbono,Seeds,7,19.68,137.76,Cash,London,2025-03-06 22:17:16,0
+935,Cassava,Tubers,3,11.1,33.3,Card,Birmingham,2025-03-04 23:49:16,0
+192,Chin Chin,Snacks,7,1.8,12.6,Cash,London,2025-04-15 07:18:16,0
+700,Palm Oil,Oil,9,6.12,55.08,Cash,Glasgow,2025-04-22 03:09:16,0
+373,Egusi,Spices,4,9.54,38.16,Card,Manchester,2025-02-23 21:30:16,0
+195,Cassava,Tubers,3,23.76,71.28,Mobile Money,Glasgow,2025-03-12 10:24:16,0
+282,Jollof Rice Pack,Grains,3,16.95,50.85,Card,London,2025-03-23 22:50:16,0
+699,Egusi,Spices,8,14.52,116.16,Card,Birmingham,2025-03-16 17:35:16,0
+684,Jollof Rice Pack,Grains,2,2.14,4.28,Mobile Money,Glasgow,2025-04-12 11:08:16,0
+401,Jollof Rice Pack,Grains,8,6.93,55.44,Mobile Money,London,2025-03-05 10:43:16,0
+537,Jollof Rice Pack,Grains,4,11.45,45.8,Cash,London,2025-03-17 07:42:16,0
+644,Ogbono,Seeds,1,14.77,14.77,Mobile Money,Glasgow,2025-03-31 15:00:16,0
+131,Plantain,Fruits,9,22.62,203.58,Cash,Birmingham,2025-03-02 20:49:16,0
+715,Egusi,Spices,9,3.99,35.91,Card,Leeds,2025-03-30 21:23:16,0
+45,Cassava,Tubers,4,12.77,51.08,Card,London,2025-04-04 01:50:16,0
+673,Cassava,Tubers,6,6.67,40.02,Mobile Money,Glasgow,2025-03-02 05:57:16,0
+359,Jollof Rice Pack,Grains,9,16.42,147.78,Card,Leeds,2025-04-12 01:56:16,0
+92,Chin Chin,Snacks,2,6.43,12.86,Cash,Manchester,2025-04-05 16:42:16,0
+211,Suya Spice,Spices,6,19.24,115.44,Card,Leeds,2025-04-14 20:51:16,0
+710,Jollof Rice Pack,Grains,3,12.7,38.1,Card,Birmingham,2025-03-09 15:02:16,0
+333,Suya Spice,Spices,5,13.45,67.25,Mobile Money,Glasgow,2025-03-13 21:30:16,0
+588,Chin Chin,Snacks,1,22.83,22.83,Mobile Money,Manchester,2025-04-10 12:54:16,0
+420,Egusi,Spices,8,15.49,123.92,Mobile Money,Leeds,2025-04-21 16:48:16,0
+298,Ogbono,Seeds,1,16.91,16.91,Card,Birmingham,2025-04-07 05:06:16,0
+316,Jollof Rice Pack,Grains,3,14.69,44.07,Card,London,2025-04-06 21:19:16,0
+659,Cassava,Tubers,7,17.11,119.77,Cash,Manchester,2025-03-01 19:03:16,0
+439,Palm Oil,Oil,4,8.34,33.36,Cash,Birmingham,2025-04-07 16:32:16,0
+150,Cassava,Tubers,1,12.74,12.74,Card,Manchester,2025-04-08 15:42:16,0
+9,Cassava,Tubers,4,18.96,75.84,Card,Birmingham,2025-04-05 11:01:16,0
+849,Yam,Tubers,7,12.61,88.27,Mobile Money,Birmingham,2025-03-01 04:10:16,0
+615,Egusi,Spices,5,6.47,32.35,Card,Manchester,2025-03-22 02:57:16,0
+320,Palm Oil,Oil,3,20.27,60.81,Mobile Money,London,2025-03-29 22:23:16,0
+823,Chin Chin,Snacks,3,23.55,70.65,Mobile Money,London,2025-03-29 10:14:16,0
+155,Plantain,Fruits,2,15.9,31.8,Cash,London,2025-03-09 22:39:16,0
+898,Ogbono,Seeds,2,22.91,45.82,Cash,Leeds,2025-04-09 07:51:16,0
+118,Stockfish,Proteins,7,7.0,49.0,Card,Manchester,2025-04-22 21:37:16,0
+248,Chin Chin,Snacks,3,13.13,39.39,Cash,London,2025-04-17 14:10:16,0
+965,Palm Oil,Oil,300,94.5,28350.0,Card,London,2025-03-11 13:01:16,1
+626,Stockfish,Proteins,9,23.54,211.86,Cash,Leeds,2025-04-06 09:44:16,0
+702,Plantain,Fruits,9,21.67,195.03,Cash,Birmingham,2025-04-02 06:34:16,0
+927,Yam,Tubers,3,7.23,21.69,Card,Manchester,2025-04-13 08:29:16,0
+840,Plantain,Fruits,8,10.82,86.56,Mobile Money,London,2025-04-13 01:04:16,0
+519,Palm Oil,Oil,5,21.71,108.55,Cash,Leeds,2025-02-27 22:19:16,0
+628,Stockfish,Proteins,4,6.42,25.68,Mobile Money,Glasgow,2025-03-05 13:35:16,0
+379,Egusi,Spices,2,19.6,39.2,Mobile Money,Leeds,2025-02-24 19:41:16,0
+495,Cassava,Tubers,5,6.99,34.95,Card,Leeds,2025-02-28 14:05:16,0
+43,Yam,Tubers,2,13.78,27.56,Card,Birmingham,2025-04-04 14:39:16,0
+483,Jollof Rice Pack,Grains,1,3.36,3.36,Cash,Leeds,2025-03-02 00:38:16,0
+761,Yam,Tubers,1,14.02,14.02,Cash,Birmingham,2025-03-03 04:12:16,0
+676,Stockfish,Proteins,7,10.61,74.27,Cash,Birmingham,2025-03-05 11:36:16,0
+55,Ogbono,Seeds,1,13.09,13.09,Cash,Leeds,2025-04-11 07:58:16,0
+517,Palm Oil,Oil,8,21.69,173.52,Card,Manchester,2025-04-16 01:40:16,0
+51,Palm Oil,Oil,1,17.69,17.69,Mobile Money,Leeds,2025-03-17 18:25:16,0
+617,Plantain,Fruits,4,22.54,90.16,Cash,Manchester,2025-04-07 01:55:16,0
+729,Suya Spice,Spices,7,7.17,50.19,Mobile Money,Leeds,2025-04-10 06:13:16,0
+979,Egusi,Spices,600,1.137,682.2,Cash,Glasgow,2025-03-12 20:04:16,1
+78,Egusi,Spices,3,20.34,61.02,Card,Manchester,2025-02-26 05:47:16,0
+8,Cassava,Tubers,1,5.51,5.51,Mobile Money,Birmingham,2025-04-10 14:03:16,0
+790,Egusi,Spices,9,1.57,14.13,Cash,London,2025-04-12 03:48:16,0
+151,Cassava,Tubers,2,3.72,7.44,Mobile Money,London,2025-04-16 01:17:16,0
+105,Jollof Rice Pack,Grains,6,23.86,143.16,Cash,Leeds,2025-04-08 02:12:16,0
+58,Stockfish,Proteins,4,10.23,40.92,Cash,Leeds,2025-03-25 07:29:16,0
+53,Stockfish,Proteins,7,18.87,132.09,Mobile Money,Manchester,2025-03-18 02:33:16,0
+955,Chin Chin,Snacks,200,132.7,26540.0,Mobile Money,London,2025-04-06 10:15:16,1
+67,Chin Chin,Snacks,3,13.5,40.5,Cash,Birmingham,2025-03-07 00:58:16,0
+293,Suya Spice,Spices,1,24.94,24.94,Cash,Glasgow,2025-03-02 08:13:16,0
+632,Jollof Rice Pack,Grains,8,14.14,113.12,Mobile Money,Birmingham,2025-03-27 05:16:16,0
+283,Cassava,Tubers,4,14.6,58.4,Mobile Money,London,2025-03-03 18:02:16,0
+469,Chin Chin,Snacks,8,6.96,55.68,Cash,Birmingham,2025-03-24 01:48:16,0
+923,Chin Chin,Snacks,1,16.29,16.29,Cash,Birmingham,2025-04-09 07:10:16,0
+370,Plantain,Fruits,6,12.3,73.8,Cash,Birmingham,2025-03-09 12:31:16,0
+421,Stockfish,Proteins,8,8.53,68.24,Mobile Money,Birmingham,2025-03-19 14:45:16,0
+981,Suya Spice,Spices,40,1.947,77.88,Cash,London,2025-03-07 13:26:16,1
+960,Cassava,Tubers,400,147.7,59080.0,Mobile Money,Manchester,2025-02-28 09:26:16,1
+887,Chin Chin,Snacks,6,20.8,124.8,Mobile Money,Birmingham,2025-03-02 02:11:16,0
+685,Suya Spice,Spices,2,5.74,11.48,Mobile Money,London,2025-04-07 15:04:16,0
+437,Chin Chin,Snacks,4,10.71,42.84,Card,London,2025-04-17 11:08:16,0
+758,Stockfish,Proteins,8,21.39,171.12,Mobile Money,Glasgow,2025-03-21 03:38:16,0
+660,Egusi,Spices,3,20.54,61.62,Mobile Money,London,2025-04-17 21:53:16,0
+520,Ogbono,Seeds,3,4.07,12.21,Mobile Money,Birmingham,2025-04-15 23:03:16,0
+218,Palm Oil,Oil,5,13.25,66.25,Cash,London,2025-03-11 19:49:16,0
+540,Palm Oil,Oil,7,21.44,150.08,Mobile Money,London,2025-03-19 16:51:16,0
+271,Palm Oil,Oil,1,21.48,21.48,Cash,Leeds,2025-04-19 17:30:16,0
+406,Plantain,Fruits,1,10.02,10.02,Card,London,2025-04-19 07:15:16,0
+397,Plantain,Fruits,1,14.12,14.12,Cash,Glasgow,2025-04-21 01:49:16,0
+148,Chin Chin,Snacks,9,18.29,164.61,Cash,Leeds,2025-03-26 21:23:16,0
+250,Yam,Tubers,1,8.96,8.96,Card,Manchester,2025-02-26 10:19:16,0
+591,Jollof Rice Pack,Grains,1,17.37,17.37,Mobile Money,London,2025-04-08 12:55:16,0
+86,Egusi,Spices,1,20.59,20.59,Card,Birmingham,2025-04-13 07:20:16,0
+535,Suya Spice,Spices,2,2.58,5.16,Cash,London,2025-04-25 10:45:16,0
+871,Ogbono,Seeds,9,18.37,165.33,Mobile Money,Glasgow,2025-04-24 19:13:16,0
+32,Plantain,Fruits,7,3.01,21.07,Card,Birmingham,2025-04-23 01:50:16,0
+159,Palm Oil,Oil,6,10.45,62.7,Mobile Money,Birmingham,2025-03-28 14:22:16,0
+945,Cassava,Tubers,3,8.48,25.44,Cash,London,2025-04-02 03:46:16,0
+950,Yam,Tubers,60,122.30000000000001,7338.0,Mobile Money,Glasgow,2025-04-12 10:51:16,1
+215,Stockfish,Proteins,7,3.35,23.45,Card,London,2025-03-04 07:37:16,0
+31,Egusi,Spices,8,14.63,117.04,Card,Manchester,2025-03-28 04:42:16,0
+798,Plantain,Fruits,3,16.28,48.84,Mobile Money,Manchester,2025-04-24 20:59:16,0
+836,Yam,Tubers,5,22.91,114.55,Cash,Glasgow,2025-04-13 20:52:16,0
+648,Jollof Rice Pack,Grains,6,15.8,94.8,Card,Glasgow,2025-03-20 11:21:16,0
+693,Suya Spice,Spices,3,22.48,67.44,Cash,Birmingham,2025-04-08 02:21:16,0
+952,Palm Oil,Oil,250,0.4730000000000001,118.25,Cash,Birmingham,2025-04-06 08:37:16,1
+515,Chin Chin,Snacks,5,3.0,15.0,Mobile Money,Glasgow,2025-02-27 05:37:16,0
+479,Egusi,Spices,6,7.25,43.5,Card,Manchester,2025-04-16 04:11:16,0
+569,Ogbono,Seeds,5,17.09,85.45,Cash,Manchester,2025-03-17 04:26:16,0
+388,Palm Oil,Oil,4,12.97,51.88,Cash,Leeds,2025-03-01 18:08:16,0
+735,Chin Chin,Snacks,9,11.02,99.18,Card,Glasgow,2025-03-28 01:42:16,0
+580,Stockfish,Proteins,9,19.93,179.37,Mobile Money,Manchester,2025-03-18 00:54:16,0
+184,Plantain,Fruits,9,5.35,48.15,Mobile Money,Manchester,2025-03-10 04:18:16,0
+512,Cassava,Tubers,8,13.12,104.96,Cash,Glasgow,2025-03-01 11:41:16,0
+122,Plantain,Fruits,9,24.57,221.13,Mobile Money,London,2025-04-10 12:38:16,0
+888,Suya Spice,Spices,4,1.95,7.8,Cash,Birmingham,2025-03-29 12:48:16,0
+998,Ogbono,Seeds,600,152.4,91440.0,Mobile Money,Birmingham,2025-03-07 03:16:16,1
+521,Egusi,Spices,9,20.12,181.08,Mobile Money,Birmingham,2025-04-10 07:46:16,0
+120,Chin Chin,Snacks,8,13.29,106.32,Cash,Manchester,2025-03-29 05:28:16,0
+492,Cassava,Tubers,7,16.55,115.85,Cash,Glasgow,2025-04-10 18:03:16,0
+616,Ogbono,Seeds,3,11.48,34.44,Cash,Birmingham,2025-03-16 19:44:16,0
+977,Ogbono,Seeds,350,235.3,82355.0,Card,London,2025-03-27 02:55:16,1
+139,Egusi,Spices,3,19.76,59.28,Card,London,2025-04-10 07:15:16,0
+268,Jollof Rice Pack,Grains,2,18.14,36.28,Mobile Money,Birmingham,2025-04-01 16:00:16,0
+7,Stockfish,Proteins,8,23.32,186.56,Mobile Money,Leeds,2025-02-26 13:42:16,0
+358,Yam,Tubers,1,2.59,2.59,Mobile Money,Manchester,2025-03-08 12:24:16,0
+692,Chin Chin,Snacks,2,1.75,3.5,Card,Manchester,2025-02-26 21:26:16,0
+234,Suya Spice,Spices,6,11.62,69.72,Cash,Leeds,2025-03-21 03:08:16,0
+842,Plantain,Fruits,3,15.96,47.88,Mobile Money,Leeds,2025-03-22 14:16:16,0
+22,Plantain,Fruits,5,2.74,13.7,Mobile Money,Leeds,2025-04-15 03:43:16,0
+462,Stockfish,Proteins,5,10.52,52.6,Card,Glasgow,2025-03-14 06:40:16,0
+419,Stockfish,Proteins,1,15.16,15.16,Card,Manchester,2025-03-01 05:40:16,0
+541,Suya Spice,Spices,5,3.3,16.5,Cash,Leeds,2025-03-08 04:10:16,0
+228,Palm Oil,Oil,5,19.9,99.5,Cash,London,2025-04-23 12:01:16,0
+278,Cassava,Tubers,9,1.59,14.31,Cash,London,2025-03-23 20:04:16,0
+674,Egusi,Spices,7,18.44,129.08,Mobile Money,Glasgow,2025-03-03 15:47:16,0
+88,Plantain,Fruits,4,8.92,35.68,Cash,Birmingham,2025-04-24 04:46:16,0
+968,Plantain,Fruits,100,1.428,142.8,Cash,Birmingham,2025-03-31 13:24:16,1
+708,Egusi,Spices,4,3.86,15.44,Cash,Birmingham,2025-03-02 06:56:16,0
+29,Suya Spice,Spices,8,12.81,102.48,Mobile Money,Manchester,2025-04-10 13:15:16,0
+905,Yam,Tubers,3,21.39,64.17,Card,London,2025-03-26 14:31:16,0
+129,Egusi,Spices,3,24.17,72.51,Mobile Money,Manchester,2025-04-02 10:18:16,0
+154,Jollof Rice Pack,Grains,3,15.43,46.29,Cash,Birmingham,2025-02-27 19:29:16,0
+582,Jollof Rice Pack,Grains,4,8.53,34.12,Cash,Birmingham,2025-04-17 22:21:16,0
+885,Palm Oil,Oil,1,12.44,12.44,Mobile Money,Glasgow,2025-03-15 16:34:16,0
+434,Chin Chin,Snacks,9,22.92,206.28,Card,London,2025-03-29 18:58:16,0
+814,Ogbono,Seeds,1,16.07,16.07,Cash,Manchester,2025-02-23 22:19:16,0
+832,Egusi,Spices,3,19.28,57.84,Mobile Money,Manchester,2025-03-20 13:43:16,0
+125,Chin Chin,Snacks,3,3.81,11.43,Cash,Birmingham,2025-03-17 11:00:16,0
+390,Egusi,Spices,8,12.81,102.48,Card,Birmingham,2025-02-24 21:57:16,0
+625,Chin Chin,Snacks,3,20.34,61.02,Mobile Money,London,2025-03-03 13:08:16,0
+601,Suya Spice,Spices,2,15.69,31.38,Card,London,2025-03-12 09:35:16,0
+202,Plantain,Fruits,2,14.89,29.78,Card,Glasgow,2025-04-07 10:09:16,0
+906,Suya Spice,Spices,7,12.96,90.72,Card,Manchester,2025-04-20 23:59:16,0
+847,Stockfish,Proteins,6,22.3,133.8,Mobile Money,Leeds,2025-03-10 07:37:16,0
+311,Stockfish,Proteins,2,4.37,8.74,Cash,Leeds,2025-03-03 18:43:16,0
+384,Cassava,Tubers,4,15.07,60.28,Card,London,2025-03-25 07:08:16,0
+835,Cassava,Tubers,2,23.68,47.36,Card,Manchester,2025-03-04 12:56:16,0
+187,Cassava,Tubers,4,20.69,82.76,Card,Manchester,2025-04-18 05:37:16,0
+987,Ogbono,Seeds,180,67.30000000000001,12114.0,Card,London,2025-03-23 18:21:16,1
+436,Yam,Tubers,4,21.47,85.88,Cash,Birmingham,2025-03-09 16:35:16,0
+637,Jollof Rice Pack,Grains,9,6.7,60.3,Card,Leeds,2025-04-19 01:16:16,0
+795,Ogbono,Seeds,6,13.5,81.0,Cash,Leeds,2025-03-09 10:56:16,0
+619,Cassava,Tubers,8,22.03,176.24,Cash,Glasgow,2025-02-28 04:54:16,0
+839,Egusi,Spices,9,20.45,184.05,Card,London,2025-03-01 15:03:16,0
+959,Jollof Rice Pack,Grains,300,145.8,43740.0,Cash,London,2025-03-07 03:39:16,1
+176,Stockfish,Proteins,1,10.5,10.5,Cash,Manchester,2025-04-07 11:46:16,0
+185,Stockfish,Proteins,1,24.05,24.05,Cash,Leeds,2025-04-02 05:58:16,0
+17,Ogbono,Seeds,7,16.32,114.24,Card,Glasgow,2025-03-27 11:38:16,0
+407,Stockfish,Proteins,5,4.86,24.3,Cash,Glasgow,2025-04-13 16:17:16,0
+864,Suya Spice,Spices,4,7.99,31.96,Cash,Birmingham,2025-04-12 20:52:16,0
+629,Suya Spice,Spices,3,17.3,51.9,Mobile Money,London,2025-04-21 18:08:16,0
+127,Yam,Tubers,5,15.25,76.25,Cash,Manchester,2025-04-19 21:39:16,0
+64,Palm Oil,Oil,9,22.53,202.77,Cash,Birmingham,2025-04-18 00:16:16,0
+596,Yam,Tubers,9,2.88,25.92,Cash,Manchester,2025-03-17 08:10:16,0
+473,Ogbono,Seeds,4,18.48,73.92,Mobile Money,London,2025-03-07 03:27:16,0
+568,Plantain,Fruits,2,1.67,3.34,Cash,Glasgow,2025-04-06 14:16:16,0
+145,Ogbono,Seeds,7,2.16,15.12,Card,London,2025-03-07 01:21:16,0
+260,Plantain,Fruits,2,17.25,34.5,Cash,Leeds,2025-03-16 13:18:16,0
+751,Chin Chin,Snacks,2,6.1,12.2,Card,Birmingham,2025-03-15 07:54:16,0
+484,Cassava,Tubers,6,23.91,143.46,Card,Glasgow,2025-03-23 01:45:16,0
+348,Palm Oil,Oil,3,6.47,19.41,Cash,Birmingham,2025-04-24 01:17:16,0
+682,Egusi,Spices,6,14.29,85.74,Mobile Money,Birmingham,2025-03-14 11:29:16,0
+117,Chin Chin,Snacks,5,12.81,64.05,Mobile Money,Glasgow,2025-03-16 20:32:16,0
+834,Chin Chin,Snacks,3,20.81,62.43,Card,Glasgow,2025-03-18 15:56:16,0
+415,Egusi,Spices,7,7.38,51.66,Cash,Glasgow,2025-03-17 20:42:16,0
+525,Suya Spice,Spices,5,22.43,112.15,Card,Leeds,2025-03-05 06:23:16,0
+424,Suya Spice,Spices,4,4.92,19.68,Cash,Leeds,2025-04-17 09:43:16,0
+288,Palm Oil,Oil,2,4.82,9.64,Cash,Leeds,2025-04-13 19:00:16,0
+771,Plantain,Fruits,9,21.62,194.58,Cash,Manchester,2025-04-09 04:02:16,0
+820,Chin Chin,Snacks,9,4.36,39.24,Cash,London,2025-04-06 06:25:16,0
+11,Plantain,Fruits,3,22.97,68.91,Cash,Birmingham,2025-03-25 14:48:16,0
+121,Chin Chin,Snacks,4,21.18,84.72,Mobile Money,Birmingham,2025-02-23 23:22:16,0
+612,Egusi,Spices,3,13.06,39.18,Card,Birmingham,2025-03-02 02:57:16,0
+928,Yam,Tubers,7,13.23,92.61,Cash,Manchester,2025-03-25 07:23:16,0
+604,Egusi,Spices,2,10.62,21.24,Mobile Money,Manchester,2025-04-23 01:00:16,0
+40,Yam,Tubers,2,21.32,42.64,Cash,Birmingham,2025-04-21 11:02:16,0
+427,Chin Chin,Snacks,8,18.46,147.68,Mobile Money,Glasgow,2025-04-24 21:12:16,0
+881,Plantain,Fruits,8,6.1,48.8,Cash,Leeds,2025-03-12 06:35:16,0
+126,Suya Spice,Spices,1,20.11,20.11,Card,Birmingham,2025-03-27 14:02:16,0
+563,Plantain,Fruits,3,16.18,48.54,Card,London,2025-04-18 02:05:16,0
+994,Yam,Tubers,300,1.941,582.3,Card,London,2025-03-15 16:23:16,1
+454,Chin Chin,Snacks,7,18.41,128.87,Cash,Birmingham,2025-04-16 02:19:16,0
+349,Stockfish,Proteins,3,1.79,5.37,Card,Birmingham,2025-02-26 04:21:16,0
+367,Palm Oil,Oil,9,3.66,32.94,Cash,London,2025-04-20 11:07:16,0
+815,Egusi,Spices,5,23.09,115.45,Cash,Glasgow,2025-04-24 12:56:16,0
+631,Chin Chin,Snacks,9,20.64,185.76,Mobile Money,Glasgow,2025-04-12 20:19:16,0
+77,Cassava,Tubers,9,13.76,123.84,Cash,Manchester,2025-03-03 16:15:16,0
+833,Cassava,Tubers,9,12.52,112.68,Cash,Glasgow,2025-03-01 20:22:16,0
+328,Plantain,Fruits,2,23.06,46.12,Card,Leeds,2025-03-29 21:22:16,0
+811,Plantain,Fruits,7,24.53,171.71,Card,Leeds,2025-03-29 04:12:16,0
+967,Palm Oil,Oil,400,2.4690000000000003,987.6,Mobile Money,Manchester,2025-04-01 19:08:16,1
+243,Cassava,Tubers,1,22.7,22.7,Mobile Money,London,2025-02-28 10:34:16,0
+63,Suya Spice,Spices,1,22.18,22.18,Cash,Glasgow,2025-03-11 02:07:16,0
+879,Egusi,Spices,9,5.54,49.86,Mobile Money,Birmingham,2025-02-28 11:45:16,0
+172,Cassava,Tubers,6,4.17,25.02,Card,Glasgow,2025-04-22 06:33:16,0
+992,Jollof Rice Pack,Grains,40,99.39999999999999,3976.0,Card,London,2025-03-12 16:35:16,1
+463,Egusi,Spices,1,9.14,9.14,Cash,Manchester,2025-03-22 16:45:16,0
+389,Palm Oil,Oil,1,24.58,24.58,Cash,Glasgow,2025-03-26 23:40:16,0
+242,Egusi,Spices,8,7.14,57.12,Cash,London,2025-02-24 03:23:16,0
+305,Egusi,Spices,7,22.87,160.09,Cash,Birmingham,2025-03-01 14:55:16,0
+549,Suya Spice,Spices,3,20.57,61.71,Cash,Leeds,2025-04-15 00:38:16,0
+899,Plantain,Fruits,7,6.68,46.76,Mobile Money,Birmingham,2025-04-03 10:58:16,0
+995,Ogbono,Seeds,20,0.5650000000000001,11.3,Card,London,2025-04-05 11:54:16,1
+10,Chin Chin,Snacks,7,14.3,100.1,Card,Manchester,2025-04-16 22:37:16,0
+813,Stockfish,Proteins,2,14.53,29.06,Mobile Money,Birmingham,2025-04-14 15:05:16,0
+66,Egusi,Spices,1,6.4,6.4,Card,Manchester,2025-03-16 05:51:16,0
+548,Plantain,Fruits,7,24.54,171.78,Cash,London,2025-02-23 22:52:16,0
+901,Jollof Rice Pack,Grains,3,19.34,58.02,Cash,Manchester,2025-04-05 12:50:16,0
+186,Jollof Rice Pack,Grains,6,13.05,78.3,Cash,Manchester,2025-03-23 07:25:16,0
+831,Jollof Rice Pack,Grains,5,14.81,74.05,Mobile Money,London,2025-03-16 10:32:16,0
+336,Stockfish,Proteins,5,16.52,82.6,Cash,London,2025-04-17 10:52:16,0
+801,Palm Oil,Oil,1,9.25,9.25,Mobile Money,Manchester,2025-04-11 05:57:16,0
+91,Jollof Rice Pack,Grains,3,9.63,28.89,Cash,Manchester,2025-04-07 00:13:16,0
+551,Ogbono,Seeds,1,9.66,9.66,Card,Glasgow,2025-03-03 22:08:16,0
+109,Egusi,Spices,8,15.68,125.44,Mobile Money,Leeds,2025-03-18 07:25:16,0
+438,Yam,Tubers,9,3.25,29.25,Cash,Leeds,2025-03-10 21:36:16,0
+99,Jollof Rice Pack,Grains,2,19.85,39.7,Cash,Glasgow,2025-04-06 13:58:16,0
+422,Egusi,Spices,3,18.28,54.84,Cash,Leeds,2025-03-07 21:42:16,0
+924,Suya Spice,Spices,6,19.9,119.4,Mobile Money,Leeds,2025-03-15 02:00:16,0
+433,Stockfish,Proteins,2,21.49,42.98,Cash,London,2025-04-08 10:42:16,0
+423,Chin Chin,Snacks,1,3.81,3.81,Card,Glasgow,2025-03-08 15:17:16,0
+35,Yam,Tubers,3,3.69,11.07,Card,London,2025-03-03 14:07:16,0
+376,Stockfish,Proteins,4,22.09,88.36,Mobile Money,London,2025-04-04 23:25:16,0
+723,Chin Chin,Snacks,9,9.39,84.51,Card,Manchester,2025-03-15 06:20:16,0
+651,Suya Spice,Spices,8,18.59,148.72,Mobile Money,Birmingham,2025-03-07 01:51:16,0
+892,Palm Oil,Oil,9,10.94,98.46,Mobile Money,Leeds,2025-03-30 18:19:16,0
+657,Egusi,Spices,3,12.31,36.93,Card,Birmingham,2025-02-25 10:10:16,0
+779,Egusi,Spices,7,17.89,125.23,Cash,Leeds,2025-03-22 11:03:16,0
+922,Yam,Tubers,1,7.61,7.61,Cash,Leeds,2025-03-19 18:37:16,0
+741,Jollof Rice Pack,Grains,9,2.37,21.33,Card,Manchester,2025-04-21 15:59:16,0
+607,Yam,Tubers,8,24.34,194.72,Card,Glasgow,2025-03-05 17:53:16,0
+276,Yam,Tubers,1,22.62,22.62,Mobile Money,London,2025-04-23 07:11:16,0
+554,Jollof Rice Pack,Grains,3,12.28,36.84,Cash,Manchester,2025-03-18 08:39:16,0
+200,Ogbono,Seeds,1,16.16,16.16,Mobile Money,London,2025-04-25 11:01:16,0
+452,Chin Chin,Snacks,8,8.18,65.44,Card,Leeds,2025-02-24 21:37:16,0
+792,Suya Spice,Spices,6,16.43,98.58,Card,Birmingham,2025-04-10 14:01:16,0
+805,Ogbono,Seeds,1,3.49,3.49,Cash,Manchester,2025-03-15 16:20:16,0
+244,Jollof Rice Pack,Grains,3,24.49,73.47,Cash,Birmingham,2025-03-30 02:03:16,0
+560,Ogbono,Seeds,1,22.69,22.69,Cash,Leeds,2025-03-18 06:21:16,0
+279,Egusi,Spices,4,2.82,11.28,Mobile Money,Leeds,2025-04-11 01:37:16,0
+691,Yam,Tubers,9,19.32,173.88,Cash,Glasgow,2025-04-21 12:51:16,0
+360,Jollof Rice Pack,Grains,6,21.2,127.2,Cash,Manchester,2025-04-02 15:33:16,0
+759,Chin Chin,Snacks,5,8.79,43.95,Card,Leeds,2025-03-13 14:08:16,0
+481,Suya Spice,Spices,4,11.57,46.28,Mobile Money,Glasgow,2025-03-29 11:53:16,0
+669,Stockfish,Proteins,3,8.78,26.34,Cash,London,2025-03-27 22:08:16,0
+93,Ogbono,Seeds,5,12.57,62.85,Card,Manchester,2025-03-21 07:21:16,0
+900,Chin Chin,Snacks,4,5.75,23.0,Mobile Money,Glasgow,2025-04-08 13:30:16,0
+478,Plantain,Fruits,5,22.79,113.95,Mobile Money,Birmingham,2025-03-29 15:01:16,0
+696,Egusi,Spices,2,18.68,37.36,Cash,Leeds,2025-04-05 17:52:16,0
+87,Cassava,Tubers,6,8.62,51.72,Card,Glasgow,2025-04-25 01:26:16,0
+142,Palm Oil,Oil,9,5.89,53.01,Cash,Glasgow,2025-03-05 06:10:16,0
+848,Egusi,Spices,1,19.13,19.13,Mobile Money,Leeds,2025-04-05 14:31:16,0
+545,Yam,Tubers,1,1.55,1.55,Cash,Manchester,2025-03-10 05:17:16,0
+641,Stockfish,Proteins,3,21.78,65.34,Mobile Money,Glasgow,2025-04-04 05:57:16,0
+83,Plantain,Fruits,2,18.16,36.32,Cash,Glasgow,2025-03-15 15:02:16,0
+530,Ogbono,Seeds,2,9.15,18.3,Mobile Money,Glasgow,2025-02-26 02:25:16,0
+768,Plantain,Fruits,2,5.74,11.48,Cash,Glasgow,2025-03-07 14:24:16,0
+418,Jollof Rice Pack,Grains,7,2.71,18.97,Mobile Money,Glasgow,2025-04-08 04:09:16,0
+329,Yam,Tubers,7,5.85,40.95,Cash,London,2025-03-24 03:18:16,0
+665,Palm Oil,Oil,4,14.75,59.0,Mobile Money,Manchester,2025-03-14 15:28:16,0
+219,Plantain,Fruits,5,24.57,122.85,Card,Manchester,2025-04-23 00:58:16,0
+859,Yam,Tubers,9,14.64,131.76,Mobile Money,Manchester,2025-03-14 16:02:16,0
+571,Plantain,Fruits,1,22.17,22.17,Cash,Glasgow,2025-04-03 22:51:16,0
