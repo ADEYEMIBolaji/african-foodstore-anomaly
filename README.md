@@ -101,7 +101,7 @@ african-foodstore-anomaly/
 
 | Upload CSV | Anomaly Detection Results |
 |:-----------|:---------------------------|
-| ![Upload Screenshot](upload_screenshot_url) | ![Results Screenshot](results_screenshot_url) |
+| ![Upload Screenshot](Image/Home page.jpg) | ![Results Screenshot](Image/Anomaly_Detected.jpg) |
 
 *(You can add real screenshots later if you want!)*
 
