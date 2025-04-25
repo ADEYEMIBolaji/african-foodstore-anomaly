@@ -9,7 +9,7 @@ from sklearn.preprocessing import StandardScaler
 from tensorflow.keras.models import load_model
 
 # --- Load saved model and scaler ---
-MODEL_DIR = "models"
+MODEL_DIR = "Models"
 model_path_pkl = os.path.join(MODEL_DIR, "best_model.pkl")
 model_path_h5 = os.path.join(MODEL_DIR, "best_model.h5")
 scaler_path = os.path.join(MODEL_DIR, "scaler.pkl")
