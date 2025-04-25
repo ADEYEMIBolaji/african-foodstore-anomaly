@@ -39,3 +39,89 @@ african-foodstore-anomaly/
 ├── requirements.txt         # Project dependencies
 ├── README.md                 # Project documentation
 └── .gitignore
+```
+
+---
+
+## 📦 Tech Stack
+
+- **Python 3.12**
+- **Streamlit**
+- **Scikit-learn**
+- **Tensorflow / Keras**
+- **Pandas / Numpy**
+- **Matplotlib / Seaborn**
+- **Joblib**
+
+---
+
+## 🛠 How to Run the Project Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/ADEYEMIBolaji/african-foodstore-anomaly.git
+   cd african-foodstore-anomaly
+   ```
+
+2. **Create a virtual environment (optional but recommended):**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Mac/Linux
+   venv\Scripts\activate     # On Windows
+   ```
+
+3. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Generate synthetic data (optional):**
+   ```bash
+   python data/generate_data.py
+   ```
+
+5. **Train models:**
+   ```bash
+   python models/train_models.py
+   ```
+
+6. **Run the Streamlit app:**
+   ```bash
+   streamlit run app.py
+   ```
+
+7. **Use the app:**
+   - Upload your transaction CSV file.
+   - See detected anomalies.
+   - Download the cleaned results.
+
+---
+
+## 📸 Screenshots
+
+| Upload CSV | Anomaly Detection Results |
+|:-----------|:---------------------------|
+| ![Upload Screenshot](upload_screenshot_url) | ![Results Screenshot](results_screenshot_url) |
+
+*(You can add real screenshots later if you want!)*
+
+---
+
+## ✨ Future Improvements
+
+- Connect to a live database of e-commerce transactions.
+- Add email alerts for detected anomalies.
+- Improve AutoEncoder architecture for deep anomaly detection.
+- Deploy Streamlit app on platforms like **Streamlit Cloud** or **AWS EC2**.
+
+---
+
+## ❤️ Credits
+
+Developed with love for African culture, commerce, and technology 🌍🛒
+
+---
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
