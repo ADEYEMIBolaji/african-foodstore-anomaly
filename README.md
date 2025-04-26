@@ -20,6 +20,14 @@ It covers everything from data generation, model training, to a live Streamlit w
 
 ---
 
+## 🌐 Live Demo
+
+You can try the deployed app here:  
+👉 [African Foodstore Anomaly Detection App](https://adeyemibolaji-african-foodstore-anomaly-app-kf0qck.streamlit.app/)
+
+---
+
+
 ## 🏗 Project Structure
 
 ```bash
